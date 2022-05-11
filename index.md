@@ -1,5 +1,5 @@
 ---
-title: "LLO8180 Supplements Page"
+title: "LLO8180 Supplemental Page"
 ---
 
 ## Welcome to Applied Statistics (LLO8180), Summer 2022
