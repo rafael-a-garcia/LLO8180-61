@@ -6,49 +6,87 @@ If you want to set up email alerts for updates/additions to this site, you can u
 
 ## Synchronous Session Materials
 
-
-
+Week 1 - Basic Terms; Organizing and Graphing Data; Introduction to R
+	* [Office 365](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/ER-jfMhQSQtAmk22Bph7BUcB8rLmYSk7onnszLFwC1YCJQ?e=wrYi0F)
+	* [Excel xlsx](./sync-sessions/Week1Excel.xlsx)
+	* [R-script Rmd](./sync-sessions/Week1R.Rmd)
+	
+<!---Week 2 - Percentiles, Central Tendency, and Variability
+	* [Office 365]()
+	* [Excel xlsx](./sync-sessions/)
+	* [R-script Rmd](./sync-sessions/)
+	
+Week 3 - Basic Probability; Normal Distribution; Z-Scores
+	* [Office 365]()
+	* [Excel xlsx](./sync-sessions/)
+	* [R-script Rmd](./sync-sessions/)
+	
+Week 4 - Sampling Distributions
+	* [Office 365]()
+	* [Excel xlsx](./sync-sessions/)
+	* [R-script Rmd](./sync-sessions/)
+	
+Week 5 - Hypothesis Testing: One-Sample Z-Test
+	* [Office 365]()
+	* [Excel xlsx](./sync-sessions/)
+	* [R-script Rmd](./sync-sessions/)
+	
+Week 6 - Power and Effect Size; One-Sample t-Test
+	* [Office 365]()
+	* [Excel xlsx](./sync-sessions/Week1Excel.xlsx)
+	* [R-script Rmd](./sync-sessions/Week1R.Rmd)
+	
+Week 7 - Two-Sample t-tests
+	* [Office 365]()
+	* [Excel xlsx](./sync-sessions/)
+	* [R-script Rmd](./sync-sessions/)
+	
+Week 8 - Confidence Intervals
+	* [Office 365]()
+	* [Excel xlsx](./sync-sessions/)
+	* [R-script Rmd](./sync-sessions/)
+	
+Week 9 - One-Way ANOVA
+	* [Office 365]()
+	* [Excel xlsx](./sync-sessions/)
+	* [R-script Rmd](./sync-sessions/)
+	
+Week 10 - Two-Way ANOVA
+	* [Office 365]()
+	* [Excel xlsx](./sync-sessions/)
+	* [R-script Rmd](./sync-sessions/)
+	
+Week 11 - Correlation
+	* [Office 365]()
+	* [Excel xlsx](./sync-sessions/Week1Excel.xlsx)
+	* [R-script Rmd](./sync-sessions/Week1R.Rmd)
+	
+Week 12 - Simple Linear Regression
+	* [Office 365]()
+	* [Excel xlsx](./sync-sessions/)
+	* [R-script Rmd](./sync-sessions/)
+	
+Week 13 - Multiple Linear Regression
+	* [Office 365]()
+	* [Excel xlsx](./sync-sessions/)
+	* [R-script Rmd](./sync-sessions/)
+	
+Week 14 - Chi-Square
+	* [Office 365]()
+	* [Excel xlsx](./sync-sessions/)
+	* [R-script Rmd](./sync-sessions/) --->
+	
 ## Assignments
 
 | Instructions (.docx) | R-Starter (.Rmd) | Data/Files | Due Date|
 |:---|:---|:---|:---|
-|[Assignment 1 ](./assignments/Assignment-1.docx) | [Assignmnet 1 Starter](./assignments/Assignment-1-Starter.Rmd) | [Student Survey Codebook](./Survey Questions.docx); [Student Survey Data](./survey.txt) | 09/08/21 |
-|[Assignment 2 ](./assignments/Assignment-2.docx) | [Assignment 2 Starter](./assignments/Assignment-2-Starter.Rmd) | | 09/22/21 |
-|[Assignment 3 ](./assignments/Assignment-3.docx) | [Assignment 3 Starter](./assignments/Assignment-3-Starter.Rmd) | [weights data](./weights.txt) | 10/13/21 |
-|[Assignment 4 ](./assignments/Assignment-4.docx) | [Assignment 4 Starter](./assignments/Assignment-4-Starter.Rmd) | [survey data](./survey.txt); [sleep data](./sleep.txt)  | 10/27/21 |
-|[Assignment 5 ](./assignments/Assignment-5.docx) | [Assignment 5 Starter](./assignments/Assignment-5-Starter.Rmd) | [survey data](./survey.txt); [behavior data](./behavior.txt) | 11/10/21 |
-|[Assignment 6 ](./assignments/Assignment-6.docx) | [Assignment 6 Starter](./assignments/Assignment-6-Starter.Rmd) | [activity data](./activity.txt); [laptop data](./laptop.txt) | 12/1/21 |
-|[Assignment 7 ](./assignments/Assignment-7.docx) | [Assignment 7 Starter](./assignments/Assignment-7-Starter.Rmd) | [blood pressure data](./Bloodpressure.txt); [political data](./political.txt) | 12/15/21
-
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rafael-a-garcia/LLO8180-61/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-
+|[Assignment 1 ](./assignments/Assignment-1.docx) | [Assignmnet 1 Starter](./assignments/Assignment-1-Starter.Rmd) | [A1 Materials](./assignments/A1-materials.zip) | 06/01/21 |
+<!---|[Assignment 2 ](./assignments/Assignment-2.docx) | [Assignment 2 Starter](./assignments/Assignment-2-Starter.Rmd) | [A2 Materials](./)  | //22 |
+|[Assignment 3 ](./assignments/Assignment-3.docx) | [Assignment 3 Starter](./assignments/Assignment-3-Starter.Rmd) | [A3 Materials](./)  | //22 |
+|[Assignment 4 ](./assignments/Assignment-4.docx) | [Assignment 4 Starter](./assignments/Assignment-4-Starter.Rmd) | [A4 Materials](./)  | //22 |
+|[Assignment 5 ](./assignments/Assignment-5.docx) | [Assignment 5 Starter](./assignments/Assignment-5-Starter.Rmd) | [A5 Materials](./)  | //22 |
+|[Assignment 6 ](./assignments/Assignment-6.docx) | [Assignment 6 Starter](./assignments/Assignment-6-Starter.Rmd) | [A6 Materials](./)  | //22 |
+|[Assignment 7 ](./assignments/Assignment-7.docx) | [Assignment 7 Starter](./assignments/Assignment-7-Starter.Rmd) | [A7 Materials](./)  | //22 | --->
 
 ### Additional Useful Files
 * [Base R Reference Card - Common Commands](./cheatsheets/Base R Cheat Sheet.pdf)
