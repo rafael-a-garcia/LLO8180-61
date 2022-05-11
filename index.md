@@ -78,7 +78,7 @@ Week 14 - Chi-Square
 	
 ## Assignments
 
-| Instructions (.docx) | R-Starter (.Rmd) | Data/Files | Due Date|
+| **Instructions (.docx)** | **R-Starter (.Rmd)** | **Data/Files** | **Due Date**|
 |:---|:---|:---|:---|
 |[Assignment 1 ](./assignments/Assignment-1.docx) | [Assignmnet 1 Starter](./assignments/Assignment-1-Starter.Rmd) | [A1 Materials](./assignments/A1-materials.zip) | 06/01/21 |
 
