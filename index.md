@@ -7,80 +7,81 @@ If you want to set up email alerts for updates/additions to this site, you can u
 ## Synchronous Session Materials
 
 Week 1 - Basic Terms; Organizing and Graphing Data; Introduction to R
-	* [Office 365](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/ER-jfMhQSQtAmk22Bph7BUcB8rLmYSk7onnszLFwC1YCJQ?e=wrYi0F)
-	* [Excel xlsx](./sync-sessions/Week1Excel.xlsx)
-	* [R-script Rmd](./sync-sessions/Week1R.Rmd)
+ * [Office 365](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/ER-jfMhQSQtAmk22Bph7BUcB8rLmYSk7onnszLFwC1YCJQ?e=wrYi0F)
+ * [Excel xlsx](./sync-sessions/Week1Excel.xlsx)
+ * [R-script Rmd](./sync-sessions/Week1R.Rmd)
 	
 <!---Week 2 - Percentiles, Central Tendency, and Variability
-	* [Office 365]()
-	* [Excel xlsx](./sync-sessions/)
-	* [R-script Rmd](./sync-sessions/)
+ * [Office 365]()
+ * [Excel xlsx](./sync-sessions/)
+ * [R-script Rmd](./sync-sessions/)
 	
 Week 3 - Basic Probability; Normal Distribution; Z-Scores
-	* [Office 365]()
-	* [Excel xlsx](./sync-sessions/)
-	* [R-script Rmd](./sync-sessions/)
+ * [Office 365]()
+ * [Excel xlsx](./sync-sessions/)
+ * [R-script Rmd](./sync-sessions/)
 	
 Week 4 - Sampling Distributions
-	* [Office 365]()
-	* [Excel xlsx](./sync-sessions/)
-	* [R-script Rmd](./sync-sessions/)
+ * [Office 365]()
+ * [Excel xlsx](./sync-sessions/)
+ * [R-script Rmd](./sync-sessions/)
 	
 Week 5 - Hypothesis Testing: One-Sample Z-Test
-	* [Office 365]()
-	* [Excel xlsx](./sync-sessions/)
-	* [R-script Rmd](./sync-sessions/)
+ * [Office 365]()
+ * [Excel xlsx](./sync-sessions/)
+ * [R-script Rmd](./sync-sessions/)
 	
 Week 6 - Power and Effect Size; One-Sample t-Test
-	* [Office 365]()
-	* [Excel xlsx](./sync-sessions/Week1Excel.xlsx)
-	* [R-script Rmd](./sync-sessions/Week1R.Rmd)
+ * [Office 365]()
+ * [Excel xlsx](./sync-sessions/Week1Excel.xlsx)
+ * [R-script Rmd](./sync-sessions/Week1R.Rmd)
 	
 Week 7 - Two-Sample t-tests
-	* [Office 365]()
-	* [Excel xlsx](./sync-sessions/)
-	* [R-script Rmd](./sync-sessions/)
+ * [Office 365]()
+ * [Excel xlsx](./sync-sessions/)
+ * [R-script Rmd](./sync-sessions/)
 	
 Week 8 - Confidence Intervals
-	* [Office 365]()
-	* [Excel xlsx](./sync-sessions/)
-	* [R-script Rmd](./sync-sessions/)
+ * [Office 365]()
+ * [Excel xlsx](./sync-sessions/)
+ * [R-script Rmd](./sync-sessions/)
 	
 Week 9 - One-Way ANOVA
-	* [Office 365]()
-	* [Excel xlsx](./sync-sessions/)
-	* [R-script Rmd](./sync-sessions/)
+ * [Office 365]()
+ * [Excel xlsx](./sync-sessions/)
+ * [R-script Rmd](./sync-sessions/)
 	
 Week 10 - Two-Way ANOVA
-	* [Office 365]()
-	* [Excel xlsx](./sync-sessions/)
-	* [R-script Rmd](./sync-sessions/)
+ * [Office 365]()
+ * [Excel xlsx](./sync-sessions/)
+ * [R-script Rmd](./sync-sessions/)
 	
 Week 11 - Correlation
-	* [Office 365]()
-	* [Excel xlsx](./sync-sessions/Week1Excel.xlsx)
-	* [R-script Rmd](./sync-sessions/Week1R.Rmd)
+ * [Office 365]()
+ * [Excel xlsx](./sync-sessions/Week1Excel.xlsx)
+ * [R-script Rmd](./sync-sessions/Week1R.Rmd)
 	
 Week 12 - Simple Linear Regression
-	* [Office 365]()
-	* [Excel xlsx](./sync-sessions/)
-	* [R-script Rmd](./sync-sessions/)
+ * [Office 365]()
+ * [Excel xlsx](./sync-sessions/)
+ * [R-script Rmd](./sync-sessions/)
 	
 Week 13 - Multiple Linear Regression
-	* [Office 365]()
-	* [Excel xlsx](./sync-sessions/)
-	* [R-script Rmd](./sync-sessions/)
+ * [Office 365]()
+ * [Excel xlsx](./sync-sessions/)
+ * [R-script Rmd](./sync-sessions/)
 	
 Week 14 - Chi-Square
-	* [Office 365]()
-	* [Excel xlsx](./sync-sessions/)
-	* [R-script Rmd](./sync-sessions/) --->
+ * [Office 365]()
+ * [Excel xlsx](./sync-sessions/)
+ * [R-script Rmd](./sync-sessions/) --->
 	
 ## Assignments
 
 | Instructions (.docx) | R-Starter (.Rmd) | Data/Files | Due Date|
 |:---|:---|:---|:---|
 |[Assignment 1 ](./assignments/Assignment-1.docx) | [Assignmnet 1 Starter](./assignments/Assignment-1-Starter.Rmd) | [A1 Materials](./assignments/A1-materials.zip) | 06/01/21 |
+
 <!---|[Assignment 2 ](./assignments/Assignment-2.docx) | [Assignment 2 Starter](./assignments/Assignment-2-Starter.Rmd) | [A2 Materials](./)  | //22 |
 |[Assignment 3 ](./assignments/Assignment-3.docx) | [Assignment 3 Starter](./assignments/Assignment-3-Starter.Rmd) | [A3 Materials](./)  | //22 |
 |[Assignment 4 ](./assignments/Assignment-4.docx) | [Assignment 4 Starter](./assignments/Assignment-4-Starter.Rmd) | [A4 Materials](./)  | //22 |
