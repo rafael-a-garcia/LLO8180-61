@@ -12,13 +12,13 @@ If you want to set up email alerts for updates/additions to this site, you can u
 
 | Instructions (.docx) | R-Starter (.Rmd) | Data/Files | Due Date|
 |:---|:---|:---|:---|
-|[Assignment 1 docx](./assignments/Assignment-1.docx) | [Assignmnet 1 .Rmd Starter](./assignments/Assignment-1-Starter.Rmd) | [Student Survey Codebook](./Survey Questions.docx), [Student Survey Data](./survey.txt) | 09/08/21 |
-|[Assignment 2 docx](./assignments/Assignment-2.docx) | [Assignment 2 .Rmd Starter](./assignments/Assignment-2-Starter.Rmd) | | 09/22/21 |
-|[Assignment 3 docx](./assignments/Assignment-3.docx) | [Assignment 3 .Rmd Starter](./assignments/Assignment-3-Starter.Rmd) | [weights data](./weights.txt) | 10/13/21 |
-|[Assignment 4 docx](./assignments/Assignment-4.docx) | [Assignment 4 .Rmd Starter](./assignments/Assignment-4-Starter.Rmd) | [survey data](./survey.txt), [sleep data](./sleep.txt)  | 10/27/21 |
-|[Assignment 5 docx](./assignments/Assignment-5.docx) | [Assignment 5 .Rmd Starter](./assignments/Assignment-5-Starter.Rmd) | [survey data](./survey.txt), [behavior data](./behavior.txt) | 11/10/21 |
-|[Assignment 6 docx](./assignments/Assignment-6.docx) | [Assignment 6 .Rmd Starter](./assignments/Assignment-6-Starter.Rmd) | [activity data](./activity.txt), [laptop data](./laptop.txt) | 12/1/21 |
-|[Assignment 7 docx](./assignments/Assignment-7.docx) | [Assignment 7 .Rmd Starter](./assignments/Assignment-7-Starter.Rmd) | [blood pressure data](./Bloodpressure.txt), [political data](./political.txt) | 12/15/21
+|[Assignment 1 ](./assignments/Assignment-1.docx) | [Assignmnet 1 Starter](./assignments/Assignment-1-Starter.Rmd) | [Student Survey Codebook](./Survey Questions.docx); [Student Survey Data](./survey.txt) | 09/08/21 |
+|[Assignment 2 ](./assignments/Assignment-2.docx) | [Assignment 2 Starter](./assignments/Assignment-2-Starter.Rmd) | | 09/22/21 |
+|[Assignment 3 ](./assignments/Assignment-3.docx) | [Assignment 3 Starter](./assignments/Assignment-3-Starter.Rmd) | [weights data](./weights.txt) | 10/13/21 |
+|[Assignment 4 ](./assignments/Assignment-4.docx) | [Assignment 4 Starter](./assignments/Assignment-4-Starter.Rmd) | [survey data](./survey.txt); [sleep data](./sleep.txt)  | 10/27/21 |
+|[Assignment 5 ](./assignments/Assignment-5.docx) | [Assignment 5 Starter](./assignments/Assignment-5-Starter.Rmd) | [survey data](./survey.txt); [behavior data](./behavior.txt) | 11/10/21 |
+|[Assignment 6 ](./assignments/Assignment-6.docx) | [Assignment 6 Starter](./assignments/Assignment-6-Starter.Rmd) | [activity data](./activity.txt); [laptop data](./laptop.txt) | 12/1/21 |
+|[Assignment 7 ](./assignments/Assignment-7.docx) | [Assignment 7 Starter](./assignments/Assignment-7-Starter.Rmd) | [blood pressure data](./Bloodpressure.txt); [political data](./political.txt) | 12/15/21
 
 
 ```markdown
