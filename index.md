@@ -89,7 +89,7 @@ Week 14 - Chi-Square
 |[Assignment 6 ](./assignments/Assignment-6.docx) | [Assignment 6 Starter](./assignments/Assignment-6-Starter.Rmd) | [A6 Materials](./)  | //22 |
 |[Assignment 7 ](./assignments/Assignment-7.docx) | [Assignment 7 Starter](./assignments/Assignment-7-Starter.Rmd) | [A7 Materials](./)  | //22 | --->
 
-### Additional Useful Files
+## Additional Useful Files
 * [Base R Reference Card - Common Commands](./cheatsheets/Base R Cheat Sheet.pdf)
 * [R Markdown Reference Card](./cheatsheets/rmarkdown-reference.pdf)
 * [Another R Markdown Reference Card](./cheatsheets/rmarkdown-cheatsheet.pdf)
