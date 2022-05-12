@@ -84,7 +84,7 @@ Week 14 - Chi-Square
 
 | **Instructions (.docx)** | **R-Starter (.Rmd)** | **Data/Files** | **Due Date**|
 |:---|:---|:---|:---|
-|[Assignment 1 ](./assignments/Assignment-1.docx) | [Assignmnet 1 Starter](./assignments/Assignment-1-Starter.Rmd) | [A1 Materials](./assignments/A1-materials.zip) | 06/01/21 |
+|[Assignment 1 ](./assignments/Assignment-1.docx) | [Assignment 1 Starter](https://raw.githubusercontent.com/rafael-a-garcia/LLO8180-61/main/assignments/Assignment-1-Starter.Rmd) | [A1 Materials](./assignments/A1-materials.zip) | 06/01/21 |
 
 <!---|[Assignment 2 ](./assignments/Assignment-2.docx) | [Assignment 2 Starter](./assignments/Assignment-2-Starter.Rmd) | [A2 Materials](./)  | //22 |
 |[Assignment 3 ](./assignments/Assignment-3.docx) | [Assignment 3 Starter](./assignments/Assignment-3-Starter.Rmd) | [A3 Materials](./)  | //22 |
