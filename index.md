@@ -15,12 +15,12 @@ Week 1 - Basic Terms; Organizing and Graphing Data; Introduction to R
  * [Excel xlsx](./sync-sessions/Week1Excel.xlsx)
  * [R-script Rmd](./sync-sessions/Week1R.Rmd)
 	
-<!---Week 2 - Percentiles, Central Tendency, and Variability
- * [Office 365]()
- * [Excel xlsx](./sync-sessions/)
- * [R-script Rmd](./sync-sessions/)
+Week 2 - Percentiles, Central Tendency, and Variability
+ * [Office 365](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/EZf1herkwJlOte2L7N0KtHkBHux0M86DGcqzZP54KliHdQ?e=YirL6e)
+ * [Excel xlsx](./sync-sessions/Week2Excel.xlsx)
+ * [R-script Rmd](./sync-sessions/Week2R.Rmd) [Data for R: examples.txt](./sync-sessions/examples.txt)
 	
-Week 3 - Basic Probability; Normal Distribution; Z-Scores
+<!---Week 3 - Basic Probability; Normal Distribution; Z-Scores
  * [Office 365]()
  * [Excel xlsx](./sync-sessions/)
  * [R-script Rmd](./sync-sessions/)
