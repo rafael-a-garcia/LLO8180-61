@@ -1,0 +1,93 @@
+---
+title: 'Applied Statistics - Week 2: Descriptive/Summary Statistics'
+author: "Shane Hutton"
+output:
+  pdf_document: default
+  html_document: default
+  word_document: default
+---
+
+## Importing data
+Last week we talked about how we can enter data into R using the data frame function. While this is something we definitely want you to know how to do, in most cases, you will not be entering data by hand, but instead, you'll be provided a data file and will want to import it directly into R.
+
+First, set the working directory (go to the Session tab then Set Working Directory then Choose Directory). Make sure your RMD and dataset files are in the same folder as you set to the working directory.
+
+```{r}
+examples <- read.table("examples.txt", header=T, sep="\t")
+#Note: We will typically use tab-delimited files (\t)
+#if you have variable names in the first row of your dataset then 
+#put header=T, otherwise header=F
+```
+
+Make sure you View or "print" the dataset after you read it in.
+```{r}
+examples
+```
+
+We can use the `str` command to obtain information about the dataset. 
+```{r}
+str(examples)
+```
+
+## Central tendency and variability
+
+We can use the `mean` function to calculate the mean of each variable in our dataset. 
+```{r}
+mean(examples$Ex1)
+mean(examples$Ex2)
+
+#Note: if you have missing data then it is coded in R as NA
+#In order to compute the mean and other descriptive stats with missing data
+#you need to put na.rm=T in the function
+#For example mean(examples$Ex1, na.rm=T)
+```
+
+We can use the `median` function to calculate the mean of each variable in our dataset. 
+```{r}
+median(examples$Ex1)
+median(examples$Ex2)
+```
+
+*Finding the mode is fairly complicated in R -- we will not be doing it here.*
+
+We can use the `sd` function to calculate the standard deviation of each variable in our dataset. 
+```{r}
+sd(examples$Ex1, na.rm = T) #na.rm = T is for missing data
+sd(examples$Ex2)
+```
+
+Other handy built-in functions: `range` (identifies the numeric range) and `var` (calculates the variance)
+```{r}
+range(examples$Ex1)
+range(examples$Ex2)
+
+var(examples$Ex1)
+var(examples$Ex2)
+```
+
+In addition to the base package that comes with R, we can also install other packages to introduce other functions we're interested in. One package is called `psych` and it allows us to run descriptive statistics quickly (and all at once). 
+
+You only need to install a package once. So, after we install this the first time, we will comment the line of code out (using a #) in the future. You may also choose to install packages by typing directly into your console, since you don't need that code saved in your .Rmd coding file. 
+```{r}
+#install.packages("psych") 
+#I have line 95 commented out because I've already installed this package and 
+#don't need to do so again. In order for you to install it, you should remove 
+#the # at the beginning of the line and run this code chunk. 
+```
+
+While we only need to install a package one time, we need to pull it from the library every time we want to use it. We do this using the library command. 
+```{r}
+library(psych) 
+
+#Now that we have the psych library open, we can use its commands. 
+#In this case we're interested in the describe function (that will 
+#give us descriptive stats on our variable).
+describe(examples$Ex1)
+describe(examples$Ex2)
+
+#Another neat feature of the describe command is that we can apply it 
+#to a whole dataset at once (rather than run it variable by variable). 
+describe(examples)
+```
+
+
