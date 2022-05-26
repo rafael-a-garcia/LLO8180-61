@@ -19,13 +19,17 @@ Week 2 - Percentiles, Central Tendency, and Variability
  * [Office 365](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/EZf1herkwJlOte2L7N0KtHkBHux0M86DGcqzZP54KliHdQ?e=YirL6e)
  * [Excel xlsx](./sync-sessions/Week2Excel.xlsx)
  * [R-script Rmd](./sync-sessions/Week2R.Rmd) Data for R: [examples.txt](./sync-sessions/examples.txt)
+ * [Week 2 Formulas](./sync-sessions/Week 3 Formulas.pdf)
+ * [Notes and Review - Week 2](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/EW3RldtpTIJPtBbSQz3wS3oB96oTb1GrlZrdaMKFXhdcOw?e=ZyaVUP)
 	
-<!---Week 3 - Basic Probability; Normal Distribution; Z-Scores
+Week 3 - Basic Probability; Normal Distribution; Z-Scores
  * [Office 365]()
- * [Excel xlsx](./sync-sessions/)
- * [R-script Rmd](./sync-sessions/)
+ * [Excel xlsx](./sync-sessions/Week3Excel.xlsx)
+ * [R-script Rmd](./sync-sessions/Week2R.Rmd)
+ * [Week 3 Formulas](./sync-sessions/Week 3 formulas.pdf)
+ * [Z-table](./sync-sessions/z-table.pdf)
 	
-Week 4 - Sampling Distributions
+<!---Week 4 - Sampling Distributions
  * [Office 365]()
  * [Excel xlsx](./sync-sessions/)
  * [R-script Rmd](./sync-sessions/)
