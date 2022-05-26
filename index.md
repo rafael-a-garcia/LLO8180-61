@@ -19,11 +19,11 @@ Week 2 - Percentiles, Central Tendency, and Variability
  * [Office 365](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/EZf1herkwJlOte2L7N0KtHkBHux0M86DGcqzZP54KliHdQ?e=YirL6e)
  * [Excel xlsx](./sync-sessions/Week2Excel.xlsx)
  * [R-script Rmd](./sync-sessions/Week2R.Rmd) Data for R: [examples.txt](./sync-sessions/examples.txt)
- * [Week 2 Formulas](./sync-sessions/Week 3 Formulas.pdf)
+ * [Week 2 Formulas](./sync-sessions/Week 2 Formulas.pdf)
  * [Notes and Review - Week 2](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/EW3RldtpTIJPtBbSQz3wS3oB96oTb1GrlZrdaMKFXhdcOw?e=ZyaVUP)
 	
 Week 3 - Basic Probability; Normal Distribution; Z-Scores
- * [Office 365]()
+ * [Office 365](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/EbKjZK0bYM5PvLIQY9MHYOQBniRFTCnvjZugidPejrpRyw?e=OZhCIF)
  * [Excel xlsx](./sync-sessions/Week3Excel.xlsx)
  * [R-script Rmd](./sync-sessions/Week2R.Rmd)
  * [Week 3 Formulas](./sync-sessions/Week 3 formulas.pdf)
@@ -98,6 +98,7 @@ Week 14 - Chi-Square
 |[Assignment 7 ](./assignments/Assignment-7.docx) | [Assignment 7 Starter](./assignments/Assignment-7-Starter.Rmd) | [A7 Materials](./)  | //22 | --->
 
 ## Additional Useful Files
+* [Z-table](./sync-sessions/z-table.pdf)
 * [Base R Reference Card - Common Commands](./cheatsheets/Base R Cheat Sheet.pdf)
 * [R Markdown Reference Card](./cheatsheets/rmarkdown-reference.pdf)
 * [Another R Markdown Reference Card](./cheatsheets/rmarkdown-cheatsheet.pdf)
