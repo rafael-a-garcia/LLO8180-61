@@ -28,6 +28,7 @@ Week 3 - Basic Probability; Normal Distribution; Z-Scores
  * [R-script Rmd](./sync-sessions/Week2R.Rmd)
  * [Week 3 Formulas](./sync-sessions/Week 3 formulas.pdf)
  * [Z-table](./sync-sessions/z-table.pdf)
+ * [Notes and Review - Week 3](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/EVZkaTFZjNJMtaFTFr0Jnx8Bj6VT6A1Owl569R1BSqLeFg?e=yTWdB3)
 	
 <!---Week 4 - Sampling Distributions
  * [Office 365]()
