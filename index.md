@@ -35,9 +35,9 @@ Week 4 - Sampling Distributions
  * [Excel xlsx](./sync-sessions/Week4Excel.xlsx)
  * [R-script Rmd](./sync-sessions/Week4R.Rmd)
  * [Week 4 Formulas](./sync-sessions/Week 4 formulas.pdf)
- <!---* [Notes and Review - Week 3](
+
 	
-Week 5 - Hypothesis Testing: One-Sample Z-Test
+ <!---Week 5 - Hypothesis Testing: One-Sample Z-Test
  * [Office 365]()
  * [Excel xlsx](./sync-sessions/)
  * [R-script Rmd](./sync-sessions/)
@@ -93,6 +93,7 @@ Week 14 - Chi-Square
 |:---|:---|:---|
 |[Assignment 1 ](./assignments/Assignment-1.docx) | [A1 Materials](./assignments/A1-materials.zip) | 06/01/21 |
 |[Assignment 2 ](./assignments/Assignment 2.docx) | [A2 Materials](./assignments/weight.xlsx)  | 06/22/22 |
+
 <!---|[Assignment 3 ](./assignments/Assignment-3.docx) | [A3 Materials](./)  | //22 |
 |[Assignment 4 ](./assignments/Assignment-4.docx) | [A4 Materials](./)  | //22 |
 |[Assignment 5 ](./assignments/Assignment-5.docx) | [A5 Materials](./)  | //22 |
