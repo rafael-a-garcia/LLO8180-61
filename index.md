@@ -30,10 +30,12 @@ Week 3 - Basic Probability; Normal Distribution; Z-Scores
  * [Z-table](./sync-sessions/z-table.pdf)
  * [Notes and Review - Week 3](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/EVZkaTFZjNJMtaFTFr0Jnx8Bj6VT6A1Owl569R1BSqLeFg?e=yTWdB3)
 	
-<!---Week 4 - Sampling Distributions
- * [Office 365]()
- * [Excel xlsx](./sync-sessions/)
- * [R-script Rmd](./sync-sessions/)
+Week 4 - Sampling Distributions
+ * [Office 365](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/EXRT18xQ4e9Bv1JffcRsKewByN27hmwGQg2Sv-8WKN9odA?e=djYrGW)
+ * [Excel xlsx](./sync-sessions/Week4Excel.xlsx)
+ * [R-script Rmd](./sync-sessions/Week4R.Rmd)
+ * [Week 4 Formulas](./sync-sessions/Week 4 formulas.pdf)
+ <!---* [Notes and Review - Week 3](
 	
 Week 5 - Hypothesis Testing: One-Sample Z-Test
  * [Office 365]()
@@ -87,16 +89,16 @@ Week 14 - Chi-Square
 	
 ## Assignments
 
-| **Instructions (.docx)** | **R-Starter (.Rmd)** | **Data/Files** | **Due Date**|
-|:---|:---|:---|:---|
-|[Assignment 1 ](./assignments/Assignment-1.docx) | [Assignment 1 Starter](https://raw.githubusercontent.com/rafael-a-garcia/LLO8180-61/main/assignments/Assignment-1-Starter.Rmd) | [A1 Materials](./assignments/A1-materials.zip) | 06/01/21 |
+| **Instructions (.docx)** | **Data/Files** | **Due Date**|
+|:---|:---|:---|
+|[Assignment 1 ](./assignments/Assignment-1.docx) | [A1 Materials](./assignments/A1-materials.zip) | 06/01/21 |
 
-<!---|[Assignment 2 ](./assignments/Assignment-2.docx) | [Assignment 2 Starter](./assignments/Assignment-2-Starter.Rmd) | [A2 Materials](./)  | //22 |
-|[Assignment 3 ](./assignments/Assignment-3.docx) | [Assignment 3 Starter](./assignments/Assignment-3-Starter.Rmd) | [A3 Materials](./)  | //22 |
-|[Assignment 4 ](./assignments/Assignment-4.docx) | [Assignment 4 Starter](./assignments/Assignment-4-Starter.Rmd) | [A4 Materials](./)  | //22 |
-|[Assignment 5 ](./assignments/Assignment-5.docx) | [Assignment 5 Starter](./assignments/Assignment-5-Starter.Rmd) | [A5 Materials](./)  | //22 |
-|[Assignment 6 ](./assignments/Assignment-6.docx) | [Assignment 6 Starter](./assignments/Assignment-6-Starter.Rmd) | [A6 Materials](./)  | //22 |
-|[Assignment 7 ](./assignments/Assignment-7.docx) | [Assignment 7 Starter](./assignments/Assignment-7-Starter.Rmd) | [A7 Materials](./)  | //22 | --->
+|[Assignment 2 ](./assignments/Assignment 2.docx) | [A2 Materials](./assignments/weight.xlsx)  | 06/22/22 |
+<!---|[Assignment 3 ](./assignments/Assignment-3.docx) | [A3 Materials](./)  | //22 |
+|[Assignment 4 ](./assignments/Assignment-4.docx) | [A4 Materials](./)  | //22 |
+|[Assignment 5 ](./assignments/Assignment-5.docx) | [A5 Materials](./)  | //22 |
+|[Assignment 6 ](./assignments/Assignment-6.docx) | [A6 Materials](./)  | //22 |
+|[Assignment 7 ](./assignments/Assignment-7.docx) | [A7 Materials](./)  | //22 | --->
 
 ## Additional Useful Files
 * [Z-table](./sync-sessions/z-table.pdf)
