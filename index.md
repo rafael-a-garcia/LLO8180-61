@@ -37,7 +37,7 @@ Week 4 - Sampling Distributions
  * [Week 4 Formulas](./sync-sessions/Week 4 formulas.pdf)
 
 	
- <!--- Week 5 - Hypothesis Testing: One-Sample Z-Test
+<!--- Week 5 - Hypothesis Testing: One-Sample Z-Test
  * [Office 365]()
  * [Excel xlsx](./sync-sessions/)
  * [R-script Rmd](./sync-sessions/)
