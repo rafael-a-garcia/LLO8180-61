@@ -92,7 +92,6 @@ Week 14 - Chi-Square
 | **Instructions (.docx)** | **Data/Files** | **Due Date**|
 |:---|:---|:---|
 |[Assignment 1 ](./assignments/Assignment-1.docx) | [A1 Materials](./assignments/A1-materials.zip) | 06/01/21 |
-
 |[Assignment 2 ](./assignments/Assignment 2.docx) | [A2 Materials](./assignments/weight.xlsx)  | 06/22/22 |
 <!---|[Assignment 3 ](./assignments/Assignment-3.docx) | [A3 Materials](./)  | //22 |
 |[Assignment 4 ](./assignments/Assignment-4.docx) | [A4 Materials](./)  | //22 |
