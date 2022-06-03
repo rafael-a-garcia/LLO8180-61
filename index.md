@@ -35,7 +35,7 @@ Week 4 - Sampling Distributions
  * [Excel xlsx](./sync-sessions/Week4Excel.xlsx)
  * [R-script Rmd](./sync-sessions/Week4R.Rmd)
  * [Week 4 Formulas](./sync-sessions/Week 4 formulas.pdf)
-
+ * [Notes and Review - Week 4](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/Eet1_4jTQ7FDt-tVPc99K9UBY7lTvxn40vT0fxvjab4DxA?e=xYJhNW)
 	
 <!--- Week 5 - Hypothesis Testing: One-Sample Z-Test
  * [Office 365]()
