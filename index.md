@@ -93,12 +93,9 @@ Week 14 - Chi-Square
 |:---|:---|:---|
 |[Assignment 1 ](./assignments/Assignment-1.docx) | [A1 Materials](./assignments/A1-materials.zip) | 06/01/21 |
 |[Assignment 2 ](./assignments/Assignment 2.docx) | [A2 Materials](./assignments/weight.xlsx)  | 06/22/22 |
+|[Assignment 3 ]() | [A3 Materials](./)  | 07/13/22 |
+|[Assignment 4 ]() | [A4 Materials](./)  | 08/10/22 |
 
-<!--- |[Assignment 3 ](./assignments/Assignment-3.docx) | [A3 Materials](./)  | //22 |
-|[Assignment 4 ](./assignments/Assignment-4.docx) | [A4 Materials](./)  | //22 |
-|[Assignment 5 ](./assignments/Assignment-5.docx) | [A5 Materials](./)  | //22 |
-|[Assignment 6 ](./assignments/Assignment-6.docx) | [A6 Materials](./)  | //22 |
-|[Assignment 7 ](./assignments/Assignment-7.docx) | [A7 Materials](./)  | //22 | --->
 
 ## Additional Useful Files
 * [Z-table](./sync-sessions/z-table.pdf)
