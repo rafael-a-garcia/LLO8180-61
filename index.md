@@ -37,12 +37,13 @@ Week 4 - Sampling Distributions
  * [Week 4 Formulas](./sync-sessions/Week 4 formulas.pdf)
  * [Notes and Review - Week 4](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/Eet1_4jTQ7FDt-tVPc99K9UBY7lTvxn40vT0fxvjab4DxA?e=xYJhNW)
 	
-<!--- Week 5 - Hypothesis Testing: One-Sample Z-Test
- * [Office 365]()
- * [Excel xlsx](./sync-sessions/)
- * [R-script Rmd](./sync-sessions/)
+Week 5 - Hypothesis Testing: One-Sample Z-Test
+ * [Office 365](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/Ee-f4cWJNw1Bk6WNbyrYqG4Blyjo-xjTVFyMUIq8jVhsMw?e=OfBfZg)
+ * [Excel xlsx](./sync-sessions/Week5Excel.xlsx)
+ * [R-script Rmd](./sync-sessions/Week5R.xlsx)
+ * [Week 5 Formulas](./sync-sessions/Week 5 formulas.pdf)
 	
-Week 6 - Power and Effect Size; One-Sample t-Test
+<!--- Week 6 - Power and Effect Size; One-Sample t-Test
  * [Office 365]()
  * [Excel xlsx](./sync-sessions/Week1Excel.xlsx)
  * [R-script Rmd](./sync-sessions/Week1R.Rmd)
