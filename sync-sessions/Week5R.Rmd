@@ -1,0 +1,57 @@
+---
+title: "Week 5 - Test Statistics & P-values"
+author: "Shane Hutton"
+output:
+  pdf_document: default
+  html_document: default
+  word_document: default
+---
+
+This week we will not do much with R other than calculate test statistics and compute p-values.
+
+Given a one sample z-test, two-tailed, alpha level .05. 
+
+Let's say we have a population mean of 1400 and standard dev of 145 for the SAT in the general population of test takers. Our sample mean is 1350 for a sample of students who took an SAT prep course. Does our sample of 28 students statistically significantly differ from the general population of test takers ?
+
+First, let's write out our Null and Alternative hypotheses (in words and in symbols):
+
+H0: mu_satprep = 1400
+
+H0: There will be no difference in the means between students who took the SAT prep course and the general population of test takers.
+
+H1: mu_satprep /= 1400
+
+H1: There will be a difference in the means between students who took the SAT prep course and the general population of test takers.
+
+### Method 1: Critical Value
+Use the critical value method to determine whether the difference between students who took the SAT prep course and the general population is statistically significant.
+
+1a. Calculate the test statistic (Z)
+```{r}
+(1350-1400)/(145/sqrt(28))
+```
+1b. Compare the test statistic to the critical value (CV) for alpha=.05, 2-tailed test (1.96). Is our test statistic more extreme than +/- 1.96? 
+
+A: No. -1.82 is less extreme than the CV of -1.96. So, we fail to reject the null. We did not find a statistically significant difference.
+
+### Method 2: P-Value
+Let's now use the p-value method to determine whether the difference between students who took the SAT prep course and the general population is statistically significant.
+
+2a. Calculate the p-value using pnorm. Make sure you use the correct lower.tail argument (lower.tail=T for negative test statistics; lower.tail=F for positive test statistics)
+```{r}
+2 * pnorm(-1.824656, lower.tail = T)
+```
+
+2b. Compare the p-value to our alpha (in this, and most cases, it's .05).
+
+p is > .05. So, we fail to reject the null. We did not find a statistically significant difference. Note: This decision agrees with the decision from using the CV method.
+
+2b-1. We could have also entered all data into pnorm without calculating the test statistic first.
+```{r}
+2*pnorm(1350, mean=1400, sd=145/sqrt(28), lower.tail=T)
+```
+Of course, this gets us the exact same answer.
+
+
+
+
