@@ -42,6 +42,7 @@ Week 5 - Hypothesis Testing: One-Sample Z-Test
  * [Excel xlsx](./sync-sessions/Week5Excel.xlsx)
  * [R-script Rmd](./sync-sessions/Week5R.xlsx)
  * [Week 5 Formulas](./sync-sessions/Week 5 formulas.pdf)
+ * [Notes and Review - Week 5]( https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/EdSOz_KWy2NKuP1NgXpFLOUBEUg-plWBPQZr4YsCIUFx7Q?e=yqRzVK)
 	
 <!--- Week 6 - Power and Effect Size; One-Sample t-Test
  * [Office 365]()
