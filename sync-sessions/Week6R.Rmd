@@ -1,0 +1,46 @@
+---
+title: "Week 5 - One-sample t-test"
+author: "Shane Hutton"
+output:
+  pdf_document: default
+  html_document: default
+  word_document: default
+---
+
+Let's use R to perform calculations for couples example.
+
+First, let's calculate the t-statistic "by hand"
+```{r}
+(2.6-3)/(1.9/sqrt(70))
+```
+
+Next, we can calculate the p-value.
+Instead of pnorm, we will use pt, the only difference is we have to specify the df
+We still have to multiply the probability for two-tailed tests (note: the t-table makes this easier).
+We still need to be careful with the lower.tail command (because we have a negative t-statistic we need to use TRUE).
+
+```{r}
+2*pt(-1.76,df=69, lower.tail=TRUE)
+
+#or we could have used the positive value (symmetry)
+
+2*pt(1.76,df=69, lower.tail=FALSE)
+```
+
+Now, let's learn how to conduct a t-test when given a dataset.
+Let's look at sample data given for example 9.1 in the book.
+
+```{r}
+OCD <- c(20,60,48,92,50,82,48,90,30,68,43,54,60,62,94,67,63,85)
+
+OCD
+
+t.test(OCD,mu=77.43, conf.level=.95)
+```
+
+We can also use R to calculate the effect size "by hand"
+
+```{r}
+#Calculate Cohen's d:
+(62-77.43)/20.94
+```
