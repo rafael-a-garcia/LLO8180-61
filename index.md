@@ -42,14 +42,15 @@ Week 5 - Hypothesis Testing: One-Sample Z-Test
  * [Excel xlsx](./sync-sessions/Week5Excel.xlsx)
  * [R-script Rmd](./sync-sessions/Week5R.xlsx)
  * [Week 5 Formulas](./sync-sessions/Week 5 formulas.pdf)
- * [Notes and Review - Week 5]( https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/EdSOz_KWy2NKuP1NgXpFLOUBEUg-plWBPQZr4YsCIUFx7Q?e=yqRzVK)
+ * [Notes and Review - Week 5](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/EdSOz_KWy2NKuP1NgXpFLOUBEUg-plWBPQZr4YsCIUFx7Q?e=yqRzVK)
 	
-<!--- Week 6 - Power and Effect Size; One-Sample t-Test
- * [Office 365]()
- * [Excel xlsx](./sync-sessions/Week1Excel.xlsx)
- * [R-script Rmd](./sync-sessions/Week1R.Rmd)
+Week 6 - Power and Effect Size; One-Sample t-Test
+ * [Office 365](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/EQ8cKcLkuN1GvcjNRBA9tNMBq5VKPW_xVcjXYNJ5_qpOaA?e=1fPanA)
+ * [Excel xlsx](./sync-sessions/Week6Excel.xlsx)
+ * [R-script Rmd](./sync-sessions/Week6R.Rmd)
+ * [Week 5 Formulas](./sync-sessions/Week 6 formulas.pdf)
 	
-Week 7 - Two-Sample t-tests
+<!--- Week 7 - Two-Sample t-tests
  * [Office 365]()
  * [Excel xlsx](./sync-sessions/)
  * [R-script Rmd](./sync-sessions/)
