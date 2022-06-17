@@ -49,6 +49,7 @@ Week 6 - Power and Effect Size; One-Sample t-Test
  * [Excel xlsx](./sync-sessions/Week6Excel.xlsx)
  * [R-script Rmd](./sync-sessions/Week6R.Rmd)
  * [Week 5 Formulas](./sync-sessions/Week 6 formulas.pdf)
+ * [Notes and Review - Week 6](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/ERO9Z3ITge1Hs-SAmQ_NxmUBGghhHTsBO1gzHFwACXaV2Q?e=TH7N1u)
 	
 <!--- Week 7 - Two-Sample t-tests
  * [Office 365]()
