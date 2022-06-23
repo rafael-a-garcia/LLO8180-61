@@ -48,15 +48,17 @@ Week 6 - Power and Effect Size; One-Sample t-Test
  * [Office 365](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/EQ8cKcLkuN1GvcjNRBA9tNMBq5VKPW_xVcjXYNJ5_qpOaA?e=1fPanA)
  * [Excel xlsx](./sync-sessions/Week6Excel.xlsx)
  * [R-script Rmd](./sync-sessions/Week6R.Rmd)
- * [Week 5 Formulas](./sync-sessions/Week 6 formulas.pdf)
+ * [Week 6 Formulas](./sync-sessions/Week 6 formulas.pdf)
  * [Notes and Review - Week 6](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/ERO9Z3ITge1Hs-SAmQ_NxmUBGghhHTsBO1gzHFwACXaV2Q?e=TH7N1u)
 	
-<!--- Week 7 - Two-Sample t-tests
+Week 7 - Two-Sample t-tests
  * [Office 365]()
- * [Excel xlsx](./sync-sessions/)
- * [R-script Rmd](./sync-sessions/)
+ * [Excel xlsx](./sync-sessions/Week7Excel.xlsx)
+ * [R-script Rmd](./sync-sessions/Week7R.Rmd)
+ * [Week 7 Formulas](./sync-sessions/Week 7 formulas.pdf)
+ * [Notes and Review - Week 7 - PENDING]()
 	
-Week 8 - Confidence Intervals
+<!--- Week 8 - Confidence Intervals
  * [Office 365]()
  * [Excel xlsx](./sync-sessions/)
  * [R-script Rmd](./sync-sessions/)
