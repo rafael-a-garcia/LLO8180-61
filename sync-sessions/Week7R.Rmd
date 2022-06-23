@@ -1,0 +1,120 @@
+---
+title: "Week 7 -- Independent samples and related samples t-tests"
+author: "Shane Hutton"
+output:
+  pdf_document: default
+  html_document: default
+  word_document: default
+---
+
+This week we learn how to conduct two-sample t-tests in R
+
+We will start with independent samples t-test
+
+Let's look at sample data given for example 9.2 (p. 297) in the book
+The data: the number of calories consumed in a meal between groups asked to eat slowly or fast
+
+```{r}
+calories <- data.frame(Slow=c(700,450,850,600,450,550), Fast=c(450,800,750,700,550,650))
+
+mean(calories$Slow)
+mean(calories$Fast)
+
+t.test(calories$Fast, calories$Slow, var.equal=T)
+```
+
+What about  using the formulas learned in async?
+Calculating the t-statistic "by hand" (I have created the formula for you, all you need to do is type in the values)
+First we will get the mean and sd for each group
+
+```{r}
+mean(calories$Slow)
+mean(calories$Fast)
+sd(calories$Slow)
+sd(calories$Fast)
+```
+
+Then we will plug them into the objects and run the code to obtain the t-value using the formula from async
+
+```{r}
+M1 <- 650 #sample mean of fast
+M2 <- 600 #sample mean of slow
+s1 <- 130.384 #sd of fast
+s2 <- 154.919 #sd of slow
+n1 <- 6 #sample size of fast
+n2 <- 6 #sample size of slow
+t <- (M1-M2)/sqrt((((n1-1)*s1^2+(n2-1)*s2^2)/(n1+n2-2))*((1/n1)+(1/n2)))
+t
+```
+
+Calculating the p-value
+We still have to multiply the probability for two-tailed tests (note: the t-table makes this easier)
+We still need to be careful with the lower.tail command (because I have a positive t-statistic I am using FALSE)
+remember df = 6 + 6 - 2 = 10
+
+```{r}
+2*pt(t, df=10, lower.tail=FALSE)
+```
+
+Calculating effect size -- note, we're doing it here for demonstration, but given our results above, we would not calculate effect size.
+Here again, I created the formula for you but for these to work the objects above have to be defined
+
+```{r}
+#Calculate Cohen's d
+(M1-M2)/sqrt((((n1-1)*s1^2+(n2-1)*s2^2)/(n1+n2-2)))
+
+#Calculate eta squared
+(t^2)/(t^2+(n1 + n2 - 2))
+```
+
+Conclusion: An independent-samples t-test revealed no statistically significant difference between the number of calories consumed between the fast eaters (M=650, SD=130.38) and the slow eaters (M=600, SD=154.92), t(10)=0.60, p>.05. 
+
+Now, lets run code for related samples t-test
+
+```{r}
+grades <- data.frame(Pretest=c(68,74,55,81,72,59,78,65,80), 
+                   Posttest=c(78,79,68,92,72,65,74,71,90))
+
+t.test(grades$Posttest, grades$Pretest, paired=TRUE)
+```
+
+Now run this "by hand"
+
+```{r}
+#First we will create the difference scores (i.e., Posttest - Pretest) 
+
+grades$difference <- c(grades$Posttest - grades$Pretest)
+
+#Look at the data and see the difference scores
+grades
+
+#Now we will find the mean and sd of the difference scores and use them to compute t using the formula from async
+mean(grades$difference) #this is Dbar
+sd(grades$difference)
+
+teststatforrelated <- 6.33/(5.5/sqrt(9))
+
+#now, let's find the p-value
+2*pt(teststatforrelated, df=8, lower.tail=FALSE)
+
+```
+
+Let's calculate cohen's d, because we found statistical significance
+#Dbar/SDdiff
+
+```{r}
+6.33/5.5 
+
+#d = 1.15 large effect
+```
+
+Find means for APA write-up/conclusion
+
+```{r}
+mean(grades$Pretest)
+sd(grades$Pretest)
+mean(grades$Posttest)
+sd(grades$Posttest)
+```
+
+Conclusion: A related-samples t-test revealed a statistically significant difference between the pre-test (M=70.22, SD=9.22) and post-test (M=76.56, SD=9.30); t(8)=3.45, p<.05, d=1.15. Cohen's d revealed a large effect.
