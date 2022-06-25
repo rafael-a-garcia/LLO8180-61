@@ -56,7 +56,7 @@ Week 7 - Two-Sample t-tests
  * [Excel xlsx](./sync-sessions/Week7Excel.xlsx)
  * [R-script Rmd](./sync-sessions/Week7R.Rmd)
  * [Week 7 Formulas](./sync-sessions/Week 7 formulas.pdf)
- * [Notes and Review - Week 7 - PENDING]()
+ * [Notes and Review - Week 7](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/EfxLuzviQcpKhJnQrOCWoiIBObIMJZBqmoyltSoHmhKQJQ?e=IVlz9O)
 	
 <!--- Week 8 - Confidence Intervals
  * [Office 365]()
