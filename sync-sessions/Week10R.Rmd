@@ -1,0 +1,42 @@
+---
+title: "Week 10 - Two-Way ANOVAs"
+author: "Shane Hutton"
+output:
+  pdf_document: default
+---
+
+This week we will learn how to conduct a two-way ANOVA in R
+
+First, set the working directory
+Let's look at the sleep data from async
+```{r}
+sleep <- read.table("sleepdata.txt", header=T, sep="\t")
+```
+
+Now, let's run the two-way ANOVA
+```{r}
+sleep.aov <- aov(Sleep~Timing + Intensity + Timing:Intensity, data=sleep)
+summary(sleep.aov)
+```
+
+Let's create an interaction plot using R
+```{r}
+interaction.plot(sleep$Intensity, sleep$Timing,  sleep$Sleep,
+                 ylim=range(15,45),xlab="Intensity",
+                 ylab="Sleep",
+                 col=c("red","blue"), main="Plot of Timing x Intensity")
+```
+
+There is a problem because R is ordering Low, Medium and High in alphabetical order but that doesn't make sense
+However, we can force R to create it how we want it -- Low, Medium and High by using the reorder function
+```{r}
+reorder <- factor(sleep$Intensity, levels=c("Low", "Medium", "High"))
+```
+
+Now, we will modify the interaction.plot code to have reordered Intensity in place of where we originally have intensity 
+```{r}
+interaction.plot(reorder, sleep$Timing,  sleep$Sleep,
+                 ylim=range(15,45), xlab="Intensity",
+                 ylab="Sleep",
+                 col=c("red","blue"), main="Plot of Timing x Intensity")
+```
