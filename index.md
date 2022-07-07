@@ -66,14 +66,14 @@ Week 8 - Confidence Intervals
  * [Notes and Review - Week 8](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/ER-s6uPflcpGl1NOR9CHor0BQkoqNM7VE5W9zRoUz7BiYA?e=dvNUn9)
  	
 Week 9 - One-Way ANOVA
- * [Office 365]()
+ * [Office 365](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/ETcEdzvR_BxJpD1Bce3iowsBiUD8iSzS6nHD7gdBI_xOAA?e=9y7Nfv)
  * [Excel xlsx](./sync-sessions/Week9Excel.xlsx)
  * [R-script Rmd](./sync-sessions/Week9.Rmd)
  * [Week 9 Formulas](./sync-sessions/Week 9 Formulas.pdf)
  * [Notes and Review - Week 9]()
 	
 <!---Week 10 - Two-Way ANOVA
- * [Office 365]()
+ * [Office 365](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/EVdcPhebgx1Gk0iBBLaVyQ0BtyC4CiGX2gTiAlfKeJpIAA?e=BOclzd)
  * [Excel xlsx](./sync-sessions/Week10Excel.xlsx)
  * [R-script Rmd](./sync-sessions/Week10.Rmd)
  * [Week 10 Formulas](./sync-sessions/Week 10 Formulas.pdf)
