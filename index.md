@@ -63,37 +63,49 @@ Week 8 - Confidence Intervals
  * [Excel xlsx](./sync-sessions/Week8Excel.xlsx)
  * [R-script Rmd](./sync-sessions/Week8.Rmd)
  * [Week 8 Formulas](./sync-sessions/Week 8 Formulas.pdf)
- * [Notes and Review - Week 8 - FORTHCOMING]()
+ * [Notes and Review - Week 8](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/ER-s6uPflcpGl1NOR9CHor0BQkoqNM7VE5W9zRoUz7BiYA?e=dvNUn9)
  	
-<!--- Week 9 - One-Way ANOVA
+Week 9 - One-Way ANOVA
  * [Office 365]()
- * [Excel xlsx](./sync-sessions/)
- * [R-script Rmd](./sync-sessions/)
+ * [Excel xlsx](./sync-sessions/Week9Excel.xlsx)
+ * [R-script Rmd](./sync-sessions/Week9.Rmd)
+ * [Week 9 Formulas](./sync-sessions/Week 9 Formulas.pdf)
+ * [Notes and Review - Week 9]()
 	
-Week 10 - Two-Way ANOVA
+<!---Week 10 - Two-Way ANOVA
  * [Office 365]()
- * [Excel xlsx](./sync-sessions/)
- * [R-script Rmd](./sync-sessions/)
+ * [Excel xlsx](./sync-sessions/Week10Excel.xlsx)
+ * [R-script Rmd](./sync-sessions/Week10.Rmd)
+ * [Week 10 Formulas](./sync-sessions/Week 10 Formulas.pdf)
+ * [Notes and Review - Week 10]()
 	
 Week 11 - Correlation
  * [Office 365]()
- * [Excel xlsx](./sync-sessions/Week1Excel.xlsx)
- * [R-script Rmd](./sync-sessions/Week1R.Rmd)
+ * [Excel xlsx](./sync-sessions/Week11Excel.xlsx)
+ * [R-script Rmd](./sync-sessions/Week11.Rmd)
+ * [Week 11 Formulas](./sync-sessions/Week 11 Formulas.pdf)
+ * [Notes and Review - Week 11]()
 	
 Week 12 - Simple Linear Regression
  * [Office 365]()
- * [Excel xlsx](./sync-sessions/)
- * [R-script Rmd](./sync-sessions/)
+ * [Excel xlsx](./sync-sessions/Week12Excel.xlsx)
+ * [R-script Rmd](./sync-sessions/Week12.Rmd)
+ * [Week 12 Formulas](./sync-sessions/Week 12 Formulas.pdf)
+ * [Notes and Review - Week 12]()
 	
 Week 13 - Multiple Linear Regression
  * [Office 365]()
- * [Excel xlsx](./sync-sessions/)
- * [R-script Rmd](./sync-sessions/)
+ * [Excel xlsx](./sync-sessions/Week13Excel.xlsx)
+ * [R-script Rmd](./sync-sessions/Week13.Rmd)
+ * [Week 13 Formulas](./sync-sessions/Week 13 Formulas.pdf)
+ * [Notes and Review - Week 13]()
 	
 Week 14 - Chi-Square
  * [Office 365]()
- * [Excel xlsx](./sync-sessions/)
- * [R-script Rmd](./sync-sessions/) --->
+ * [Excel xlsx](./sync-sessions/Week14Excel.xlsx)
+ * [R-script Rmd](./sync-sessions/Week14.Rmd)
+ * [Week 14 Formulas](./sync-sessions/Week 14 Formulas.pdf)
+ * [Notes and Review - Week 14]() --->
 	
 ## Assignments
 
