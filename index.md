@@ -70,16 +70,16 @@ Week 9 - One-Way ANOVA
  * [Excel xlsx](./sync-sessions/Week9Excel.xlsx)
  * [R-script Rmd](./sync-sessions/Week9.Rmd)
  * [Week 9 Formulas](./sync-sessions/Week 9 Formulas.pdf)
- * [Notes and Review - Week 9]()
+ * [Notes and Review - Week 9](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/EdE1nWimrrNKsprp-j3s6iAB4fLp__Rfm50iKyJJdTkmwA?e=zRtgb4)
 	
-<!---Week 10 - Two-Way ANOVA
+Week 10 - Two-Way ANOVA
  * [Office 365](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/EVdcPhebgx1Gk0iBBLaVyQ0BtyC4CiGX2gTiAlfKeJpIAA?e=BOclzd)
  * [Excel xlsx](./sync-sessions/Week10Excel.xlsx)
  * [R-script Rmd](./sync-sessions/Week10.Rmd)
  * [Week 10 Formulas](./sync-sessions/Week 10 Formulas.pdf)
  * [Notes and Review - Week 10]()
 	
-Week 11 - Correlation
+<!---Week 11 - Correlation
  * [Office 365]()
  * [Excel xlsx](./sync-sessions/Week11Excel.xlsx)
  * [R-script Rmd](./sync-sessions/Week11.Rmd)
