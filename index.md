@@ -115,7 +115,7 @@ Week 14 - Chi-Square
 |[Assignment 2 ](./assignments/Assignment 2.docx) | [A2 Materials](./assignments/weight.xlsx)  | 06/22/22 |
 |[Assignment 3 ](./assignments/Assignment 3.docx) | [A3 Materials](./assignments/A3Files.zip)  | 07/13/22 |
 |[Key Learning Reflection - Rubric ](./assignments/Key Learning Reflection Rubric.docx) | [](./)  | 07/27/22 |
-|[Assignment 4 ]() | [A4 Materials](./)  | 08/10/22 |
+|[Assignment 4 ](./assignments/Assignment 4.docx) | [A4 Materials](./assignment4data.xlsx)  | 08/10/22 |
 
 
 ## Additional Useful Files
