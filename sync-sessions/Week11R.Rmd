@@ -1,0 +1,38 @@
+---
+title: "Week 11 - Correlation"
+author: "Shane Hutton"
+output:
+  pdf_document: default
+---
+
+This week we will learn how to compute and analyze correlations
+First set your working directory
+
+Let's look at the phd data from async
+Let's import the data
+```{r}
+phd_data <- read.table("phd.txt", header=TRUE, sep="\t")
+phd_data #print it
+```
+
+Now we will make a scatterplot (IV on x-axis; DV on y-axis)
+```{r}
+plot(phd_data$Time, phd_data$Pubs, 
+     main="Scatterplot of Time & Publications",
+     xlab="Time Since PhD Grad (in years)", 
+     ylab="Publications", pch=12)
+```
+
+We can use R to compute the Pearson Correlation and obtain other values for the hypothesis test
+```{r}
+cor.test(phd_data$Time, phd_data$Pubs)
+```
+
+Calculate effect size (R^2)
+```{r}
+0.6566546^2
+```
+
+
+
+
