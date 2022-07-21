@@ -77,16 +77,16 @@ Week 10 - Two-Way ANOVA
  * [Excel xlsx](./sync-sessions/Week10Excel.xlsx)
  * [R-script Rmd](./sync-sessions/Week10.Rmd)
  * [Week 10 Formulas](./sync-sessions/Week 10 Formulas.pdf)
- * [Notes and Review - Week 10]()
+ * [Notes and Review - Week 10](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/EU0hrEwaBdNNgYfOmBmZuooBONY6GIjXL1kuxD1xWPiHfA?e=5sWJMJ)
 	
-<!---Week 11 - Correlation
- * [Office 365]()
+Week 11 - Correlation
+ * [Office 365](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/EfvA2AuQoXpLgkFrIuzfbssBT05Rp3g-g1aRtGKcRysSkg?e=2lxIiP)
  * [Excel xlsx](./sync-sessions/Week11Excel.xlsx)
  * [R-script Rmd](./sync-sessions/Week11.Rmd)
  * [Week 11 Formulas](./sync-sessions/Week 11 Formulas.pdf)
  * [Notes and Review - Week 11]()
 	
-Week 12 - Simple Linear Regression
+<!---Week 12 - Simple Linear Regression
  * [Office 365]()
  * [Excel xlsx](./sync-sessions/Week12Excel.xlsx)
  * [R-script Rmd](./sync-sessions/Week12.Rmd)
@@ -115,7 +115,7 @@ Week 14 - Chi-Square
 |[Assignment 2 ](./assignments/Assignment 2.docx) | [A2 Materials](./assignments/weight.xlsx)  | 06/22/22 |
 |[Assignment 3 ](./assignments/Assignment 3.docx) | [A3 Materials](./assignments/A3Files.zip)  | 07/13/22 |
 |[Key Learning Reflection - Rubric ](./assignments/Key Learning Reflection Rubric.docx) | [](./)  | 07/27/22 |
-|[Assignment 4 ]() | [A4 Materials](./)  | 08/10/22 |
+|[Assignment 4 ](./assignments/Assignment 4.docx) | [A4 Materials](./assignment4data.xlsx)  | 08/10/22 |
 
 
 ## Additional Useful Files
