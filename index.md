@@ -77,16 +77,16 @@ Week 10 - Two-Way ANOVA
  * [Excel xlsx](./sync-sessions/Week10Excel.xlsx)
  * [R-script Rmd](./sync-sessions/Week10.Rmd)
  * [Week 10 Formulas](./sync-sessions/Week 10 Formulas.pdf)
- * [Notes and Review - Week 10]()
+ * [Notes and Review - Week 10](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/EU0hrEwaBdNNgYfOmBmZuooBONY6GIjXL1kuxD1xWPiHfA?e=5sWJMJ)
 	
-<!---Week 11 - Correlation
- * [Office 365]()
+Week 11 - Correlation
+ * [Office 365](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/EfvA2AuQoXpLgkFrIuzfbssBT05Rp3g-g1aRtGKcRysSkg?e=2lxIiP)
  * [Excel xlsx](./sync-sessions/Week11Excel.xlsx)
  * [R-script Rmd](./sync-sessions/Week11.Rmd)
  * [Week 11 Formulas](./sync-sessions/Week 11 Formulas.pdf)
  * [Notes and Review - Week 11]()
 	
-Week 12 - Simple Linear Regression
+<!---Week 12 - Simple Linear Regression
  * [Office 365]()
  * [Excel xlsx](./sync-sessions/Week12Excel.xlsx)
  * [R-script Rmd](./sync-sessions/Week12.Rmd)
