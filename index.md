@@ -86,14 +86,14 @@ Week 11 - Correlation
  * [Week 11 Formulas](./sync-sessions/Week 11 Formulas.pdf)
  * [Notes and Review - Week 11]()
 	
-<!---Week 12 - Simple Linear Regression
+Week 12 - Simple Linear Regression
  * [Office 365]()
  * [Excel xlsx](./sync-sessions/Week12Excel.xlsx)
  * [R-script Rmd](./sync-sessions/Week12.Rmd)
- * [Week 12 Formulas](./sync-sessions/Week 12 Formulas.pdf)
+ * [Week 12 Formulas](./sync-sessions/Week 12 formulas.pdf)
  * [Notes and Review - Week 12]()
 	
-Week 13 - Multiple Linear Regression
+<!---Week 13 - Multiple Linear Regression
  * [Office 365]()
  * [Excel xlsx](./sync-sessions/Week13Excel.xlsx)
  * [R-script Rmd](./sync-sessions/Week13.Rmd)
