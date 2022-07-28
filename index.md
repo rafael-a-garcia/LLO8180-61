@@ -86,14 +86,14 @@ Week 11 - Correlation
  * [Week 11 Formulas](./sync-sessions/Week 11 Formulas.pdf)
  * [Notes and Review - Week 11]()
 	
-<!---Week 12 - Simple Linear Regression
- * [Office 365]()
+Week 12 - Simple Linear Regression
+ * [Office 365](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/EX1MxgAxjLBMv1qrD1HMwuoBwY-wTC0Y34TJjs83K2ch2w?e=uYZ6ls)
  * [Excel xlsx](./sync-sessions/Week12Excel.xlsx)
  * [R-script Rmd](./sync-sessions/Week12.Rmd)
- * [Week 12 Formulas](./sync-sessions/Week 12 Formulas.pdf)
- * [Notes and Review - Week 12]()
+ * [Week 12 Formulas](./sync-sessions/Week 12 formulas.pdf)
+ * [Notes and Review - Week 12](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/EZuWti86Wm1Jjyv2EloWfgYBfkHe9AU3YuveYQuxLx_B3g?e=KBsPxK)
 	
-Week 13 - Multiple Linear Regression
+<!---Week 13 - Multiple Linear Regression
  * [Office 365]()
  * [Excel xlsx](./sync-sessions/Week13Excel.xlsx)
  * [R-script Rmd](./sync-sessions/Week13.Rmd)
@@ -115,7 +115,7 @@ Week 14 - Chi-Square
 |[Assignment 2 ](./assignments/Assignment 2.docx) | [A2 Materials](./assignments/weight.xlsx)  | 06/22/22 |
 |[Assignment 3 ](./assignments/Assignment 3.docx) | [A3 Materials](./assignments/A3Files.zip)  | 07/13/22 |
 |[Key Learning Reflection - Rubric ](./assignments/Key Learning Reflection Rubric.docx) | [](./)  | 07/27/22 |
-|[Assignment 4 ](./assignments/Assignment 4.docx) | [A4 Materials](./assignments/assignment4data.xlsx)  | 08/10/22 |
+|[Assignment 4 ](./assignments/Assignment 4.docx) | [A4 Materials](./assignments/assignment4data.xlsx)  | 08/11/22 |
 
 
 ## Additional Useful Files
