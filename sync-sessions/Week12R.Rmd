@@ -1,0 +1,74 @@
+---
+title: "Week 12 - SLR"
+author: "Shane Hutton"
+output:
+  pdf_document: default
+---
+
+This week we will learn how to conduct a SLR (simple linear regression) in R
+
+Let's look at the phd data from async
+First set your working directory
+
+Now we will import the data
+```{r}
+phd <- read.table("phd.txt", header=TRUE, sep="\t")
+phd
+```
+
+Now we will make a scatterplot to examine the data visually
+```{r}
+plot(phd$Time, phd$Pubs ,
+     main="Scatterplot of Time & Pubs", 
+     xlab="Time Since Grad (in Years)", ylab="Publications", pch=19, 
+     xlim=c(0,20), ylim=c(0,50))
+```
+
+Let's run an SLR with Pubs as DV and Time as IV; we will save it to an object called phd.regression
+REGRESSIONOBJECTNAME <- lm(YVARIABLE ~ XVARIABLE, data=DATASETNAME)
+```{r}
+phd.regression <- lm(Pubs ~ Time, data=phd)
+```
+
+Here are the results:
+```{r}
+#Parameter estimates
+phd.regression
+
+#More information for hypothesis tests
+summary(phd.regression)
+
+#confidence intervals for parameter estimates
+confint(phd.regression)
+
+range(phd$Pubs)
+```
+
+Plotting regression line on scatterplot
+```{r}
+plot(phd$Time, phd$Pubs ,
+     main="Scatterplot of Time & Pubs", 
+     xlab="Time Since Grad (in Years)", ylab="Publications", pch=19, 
+     xlim=c(0,20), ylim=c(0,50))
+
+abline(phd.regression, col="blue")
+```
+
+An additional example (using data that is stored in R)
+The dataset in R is called mtcars
+```{r}
+mtcars
+```
+
+Let's examine a possible relationship between car weight & miles per gallon
+```{r}
+plot(mtcars$wt, mtcars$mpg, 
+     main="Scatterplot of Weight and MPG", 
+     xlab="Weight in 1000s", ylab="MPG", pch=19)
+```
+
+Does car weight predict MPG? 
+```{r}
+cars.regression <- lm(mpg ~ wt, data=mtcars)
+summary(cars.regression)
+```
