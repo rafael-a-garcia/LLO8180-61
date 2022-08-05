@@ -1,0 +1,134 @@
+---
+title: "Week 13 - MLR"
+author: "Shane Hutton"
+output:
+  pdf_document: default
+---
+
+This week we will learn how to conduct a MLR in R
+
+Let's look at the phd data from async
+```{r}
+phd_mlr <- read.table("phd2.txt", header=TRUE, sep="\t")
+```
+
+In case you're interested here is the code to run the 3D scatterplot in async
+we will not review this in class
+
+```{r}
+#install.packages("plot3D")
+require(plot3D)
+attach(phd_mlr)
+
+fit <- lm(PUBS ~ TIME+SALARY)
+
+TIME.pred <- seq(0, 20, length.out = 30)
+SALARY.pred <- seq(40000, 80000, length.out = 30)
+xy <- expand.grid(TIME = TIME.pred, 
+                  SALARY = SALARY.pred)
+PUBS.pred <- matrix (nrow = 30, ncol = 30, 
+                     data = predict(fit, newdata = data.frame(xy), interval = "prediction"))
+
+fitpoints <- predict(fit) 
+
+scatter3D(z = PUBS, x = TIME, y = SALARY, pch = 18, cex = 2, 
+          theta = 20, phi = 20, ticktype = "detailed",
+          xlab = "time", ylab = "salary", zlab = "pubs", clab = "pubs", 
+          surf = list(x = TIME.pred, y = SALARY.pred, z = PUBS.pred, 
+                      facets = NA, fit = fitpoints),
+          colkey = list(length = 0.8, width = 0.4),            
+          main = "phd")
+detach(phd_mlr)
+```
+
+Recall in async we mean centered salary, let's do that first
+(You may want to review the week 1 R code on how to add a variable to an existing dataset)
+dataset$NEWVARNAME <- DATASET$VARWEWANTTOCENTER - mean(DATASET$VARWEWANTTOCENTER)
+```{r}
+phd_mlr$SALARY_mc <- phd_mlr$SALARY - mean(phd_mlr$SALARY)
+```
+
+Now, we will run the MLR with Time, Salary (mean-centered) and citations as predictors for # of pubs
+```{r}
+phd.mlrreg <- lm(PUBS ~ TIME + SALARY_mc + CITS, data=phd_mlr)
+summary(phd.mlrreg)
+```
+
+Let's write the regression line equation
+Pubs_hat=4.55 + 1.77time + 0.0002(salary-54815.76) + 0.04citations
+
+Interpret the intercept:
+The predicted number of publications is 4.55 when time equals 0, citations equal 0,   
+and the salary was at its mean ($54,815.76).
+
+Interpret the slope for citations:
+For each additional citation, there was a predicted increase in publications of .04, 
+holding all other variables in the model constant.
+
+Interpret the slope for time:
+For each additional year since graduation, there was a predicted increase in pubs of 1.77, holding all other variables in the model constant.
+
+Interpret the slope for salary:
+For each additional dollar above the mean salary, there was a predicted increase in publications of .0002 holding all other variables in the model constant. 
+
+If we wanted it to make a bit more sense, we might multiple by 10,000 (so that our unit is not 1 dollar): For each additional $10,000 in salary, there was a predicted increase of 2 publications, holding other vars constant.
+
+F-test for the model:
+A MLR revealed that time, salary, and citations significantly predicted number of 
+publications, F(3,58)=15.46, p<0.05, R2=0.44. 44% of the variation in number of publications was accounted for by time since graduation, salary, and citations.
+
+We can obtain confidence intervals
+```{r}
+confint(phd.mlrreg)
+```
+
+If we want to obtain standardized regression coefficients, then we can use the QuantPsyc package
+
+```{r}
+#install.packages("QuantPsyc")
+library(QuantPsyc)
+
+#standardized betas
+lm.beta(phd.mlrreg)
+```
+
+Let's write the standardized regression equation
+ZYhat = 0.54Ztime + 0.15Zsalary_mc + 0.05Zcits
+
+If we want to obtain the squared semi-partial and squared partial correlations, 
+then we can use the ppcor package
+
+```{r}
+#install.packages("ppcor")
+library(ppcor)
+
+#We can use the ppcor package to get the semi-partial correlations among the variables
+spcor(phd_mlr[,c("PUBS","SALARY_mc","TIME","CITS")])
+```
+
+We can see the semi-partial correlations for pubs with the IVS is                                     PUBS    SALARY_mc         TIME        CITS
+PUBS     1.00000000    0.1073541    0.4286871  0.04087143
+
+To get the squared semi-partial correlations then we just square each value
+sr^2_salary_c = .1073541^2 = .0115
+  1.15% of the variation in publications was accounted for by salary, beyond that which was accounted for by time & citations.
+sr^2_time = .4286871^2 = .1838
+  18.38% of the variation in publications was accounted for by time, beyond that which was accounted for by salary & citations.
+sr^2_cits = .04087143^2 = .0017
+  0.17% of the variation in publications was accounted for by citations, beyond taht which was accounted for by time & salary.
+
+Likewise, we will use the ppcor package to get the partial correlations among the variables
+```{r}
+pcor(phd_mlr[,c("PUBS","SALARY_mc","TIME","CITS")])
+```
+
+               PUBS  SALARY_c       TIME       CITS
+PUBS     1.00000000 0.1425430 0.49852073 0.05474607
+
+squared partial correlations to get squared partials
+pr^2_salary_c = .1425430^2 =.0203
+  Of the variation in publications not explained by time and citations, 2.03% was explained by salary.
+pr^2_time = .49852073^2 = .2485
+  Of the variation in publications not explained by salary and citations, 24.85% was explained by time.
+pr^2_cits = .05474607^2 = .0030
+  Of the variation in publications not explained by salary and time, 0.30% was explained by citations. 
