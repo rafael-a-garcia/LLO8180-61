@@ -93,14 +93,14 @@ Week 12 - Simple Linear Regression
  * [Week 12 Formulas](./sync-sessions/Week 12 formulas.pdf)
  * [Notes and Review - Week 12](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/EZuWti86Wm1Jjyv2EloWfgYBfkHe9AU3YuveYQuxLx_B3g?e=KBsPxK)
 	
-<!---Week 13 - Multiple Linear Regression
- * [Office 365]()
+Week 13 - Multiple Linear Regression
+ * [Office 365](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/EWkVoWmbPwNPvfGe1zFYRasB0PMtFyojZe6IGA9pmQqwlQ?e=giLpf0)
  * [Excel xlsx](./sync-sessions/Week13Excel.xlsx)
  * [R-script Rmd](./sync-sessions/Week13.Rmd)
- * [Week 13 Formulas](./sync-sessions/Week 13 Formulas.pdf)
- * [Notes and Review - Week 13]()
+ * [Week 13 Formulas](./sync-sessions/Week 13 formulas.pdf)
+ * [Notes and Review - Week 13](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/EfGZ6aqhIgVLsXmsYBLgg4ABP-7C1JDRCImVRK5JVi1BcQ?e=b4gAeq)
 	
-Week 14 - Chi-Square
+<!---Week 14 - Chi-Square
  * [Office 365]()
  * [Excel xlsx](./sync-sessions/Week14Excel.xlsx)
  * [R-script Rmd](./sync-sessions/Week14.Rmd)
