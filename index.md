@@ -61,51 +61,54 @@ Week 7 - Two-Sample t-tests
 Week 8 - Confidence Intervals
  * [Office 365](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/EdxMeIK9HrpJsab-QZ6GqN0B6rMjwOoYCXlwTx5Kwji9cA?e=bzOvyd)
  * [Excel xlsx](./sync-sessions/Week8Excel.xlsx)
- * [R-script Rmd](./sync-sessions/Week8.Rmd)
+ * [R-script Rmd](./sync-sessions/Week8R.Rmd)
  * [Week 8 Formulas](./sync-sessions/Week 8 Formulas.pdf)
  * [Notes and Review - Week 8](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/ER-s6uPflcpGl1NOR9CHor0BQkoqNM7VE5W9zRoUz7BiYA?e=dvNUn9)
  	
 Week 9 - One-Way ANOVA
  * [Office 365](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/ETcEdzvR_BxJpD1Bce3iowsBiUD8iSzS6nHD7gdBI_xOAA?e=9y7Nfv)
  * [Excel xlsx](./sync-sessions/Week9Excel.xlsx)
- * [R-script Rmd](./sync-sessions/Week9.Rmd)
+ * [R-script Rmd](./sync-sessions/Week9R.Rmd)
  * [Week 9 Formulas](./sync-sessions/Week 9 Formulas.pdf)
  * [Notes and Review - Week 9](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/EdE1nWimrrNKsprp-j3s6iAB4fLp__Rfm50iKyJJdTkmwA?e=zRtgb4)
 	
 Week 10 - Two-Way ANOVA
  * [Office 365](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/EVdcPhebgx1Gk0iBBLaVyQ0BtyC4CiGX2gTiAlfKeJpIAA?e=BOclzd)
  * [Excel xlsx](./sync-sessions/Week10Excel.xlsx)
- * [R-script Rmd](./sync-sessions/Week10.Rmd)
+ * [R-script Rmd](./sync-sessions/Week10R.Rmd)
  * [Week 10 Formulas](./sync-sessions/Week 10 Formulas.pdf)
  * [Notes and Review - Week 10](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/EU0hrEwaBdNNgYfOmBmZuooBONY6GIjXL1kuxD1xWPiHfA?e=5sWJMJ)
 	
 Week 11 - Correlation
  * [Office 365](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/EfvA2AuQoXpLgkFrIuzfbssBT05Rp3g-g1aRtGKcRysSkg?e=2lxIiP)
  * [Excel xlsx](./sync-sessions/Week11Excel.xlsx)
- * [R-script Rmd](./sync-sessions/Week11.Rmd)
+ * [R-script Rmd](./sync-sessions/Week11R.Rmd)
  * [Week 11 Formulas](./sync-sessions/Week 11 Formulas.pdf)
  * [Notes and Review - Week 11]()
 	
 Week 12 - Simple Linear Regression
  * [Office 365](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/EX1MxgAxjLBMv1qrD1HMwuoBwY-wTC0Y34TJjs83K2ch2w?e=uYZ6ls)
  * [Excel xlsx](./sync-sessions/Week12Excel.xlsx)
- * [R-script Rmd](./sync-sessions/Week12.Rmd)
+ * [R-script Rmd](./sync-sessions/Week12R.Rmd)
  * [Week 12 Formulas](./sync-sessions/Week 12 formulas.pdf)
  * [Notes and Review - Week 12](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/EZuWti86Wm1Jjyv2EloWfgYBfkHe9AU3YuveYQuxLx_B3g?e=KBsPxK)
 	
 Week 13 - Multiple Linear Regression
  * [Office 365](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/EWkVoWmbPwNPvfGe1zFYRasB0PMtFyojZe6IGA9pmQqwlQ?e=giLpf0)
  * [Excel xlsx](./sync-sessions/Week13Excel.xlsx)
- * [R-script Rmd](./sync-sessions/Week13.Rmd)
+ * [R-script Rmd](./sync-sessions/Week13R.Rmd)
  * [Week 13 Formulas](./sync-sessions/Week 13 formulas.pdf)
  * [Notes and Review - Week 13](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/EfGZ6aqhIgVLsXmsYBLgg4ABP-7C1JDRCImVRK5JVi1BcQ?e=b4gAeq)
 	
-<!---Week 14 - Chi-Square
- * [Office 365]()
+Week 14 - Chi-Square
+ * [Office 365](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/ETP9mz2XhIVPqasaxlXKM2YB0Mf8pGw_bKGEO9cp9rKujw?e=Ib7JVN)
  * [Excel xlsx](./sync-sessions/Week14Excel.xlsx)
- * [R-script Rmd](./sync-sessions/Week14.Rmd)
- * [Week 14 Formulas](./sync-sessions/Week 14 Formulas.pdf)
- * [Notes and Review - Week 14]() --->
+ * [R-script Rmd](./sync-sessions/Week14R.Rmd)
+ * [Week 14 Formulas](./sync-sessions/Week 14 formulas.pdf)
+ * [Notes and Review - Week 14]()
+ * [Choosing Statistics Handout](.sync-sessions/ChoosingStatisticsHandout.docx)
+ <!---
+ --->
 	
 ## Assignments
 
