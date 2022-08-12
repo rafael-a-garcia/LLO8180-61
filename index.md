@@ -106,7 +106,7 @@ Week 14 - Chi-Square
  * [R-script Rmd](./sync-sessions/Week14R.Rmd)
  * [Week 14 Formulas](./sync-sessions/Week 14 formulas.pdf)
  * [Notes and Review - Week 14]()
- * [Choosing Statistics Handout](.sync-sessions/ChoosingStatisticsHandout.docx)
+ * [Choosing Statistics Handout](./sync-sessions/ChoosingStatisticsHandout.docx)
  <!---
  --->
 	
