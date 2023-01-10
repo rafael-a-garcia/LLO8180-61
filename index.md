@@ -2,7 +2,7 @@
 title: "LLO8180 Supplemental Page"
 ---
 
-## Welcome to Applied Statistics (LLO8180), Summer 2022
+## Welcome to Applied Statistics (LLO8180), Spring 2023
 
 This is a supplementary page for Professor Garcia's section of LLO 8180 - Applied Statistics. Make sure you bookmark and check this page frequently for the most up-to-date files to use for live sessions and assignments. 
 
@@ -14,7 +14,7 @@ Week 1 - Basic Terms; Organizing and Graphing Data; Introduction to R
  * [Office 365](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/ER-jfMhQSQtAmk22Bph7BUcB8rLmYSk7onnszLFwC1YCJQ?e=wrYi0F)
  * [Excel xlsx](./sync-sessions/Week1Excel.xlsx)
  * [R-script Rmd](./sync-sessions/Week1R.Rmd)
-	
+ <!---	
 Week 2 - Percentiles, Central Tendency, and Variability
  * [Office 365](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/EZf1herkwJlOte2L7N0KtHkBHux0M86DGcqzZP54KliHdQ?e=YirL6e)
  * [Excel xlsx](./sync-sessions/Week2Excel.xlsx)
@@ -107,18 +107,18 @@ Week 14 - Chi-Square
  * [Week 14 Formulas](./sync-sessions/Week 14 formulas.pdf)
  * [Notes and Review - Week 14]()
  * [Choosing Statistics Handout](./sync-sessions/ChoosingStatisticsHandout.docx)
- <!---
+
  --->
 	
 ## Assignments
 
 | **Instructions (.docx)** | **Data/Files** | **Due Date**|
 |:---|:---|:---|
-|[Assignment 1 ](./assignments/Assignment-1.docx) | [A1 Materials](./assignments/A1-materials.zip) | 06/01/21 |
-|[Assignment 2 ](./assignments/Assignment 2.docx) | [A2 Materials](./assignments/weight.xlsx)  | 06/22/22 |
-|[Assignment 3 ](./assignments/Assignment 3.docx) | [A3 Materials](./assignments/A3Files.zip)  | 07/13/22 |
-|[Key Learning Reflection - Rubric ](./assignments/Key Learning Reflection Rubric.docx) | [](./)  | 07/27/22 |
-|[Assignment 4 ](./assignments/Assignment 4.docx) | [A4 Materials](./assignments/assignment4data.xlsx)  | 08/11/22 |
+|[Assignment 1 ](./assignments/Assignment-1.docx) | [A1 Materials](./assignments/A1-materials.zip) | Jan 31 |
+|[Assignment 2 ](./assignments/Assignment 2.docx) | [A2 Materials](./assignments/weight.xlsx)  | Feb 21 |
+|[Assignment 3 ](./assignments/Assignment 3.docx) | [A3 Materials](./assignments/A3Files.zip)  | Mar 21 |
+|[Key Learning Reflection - Rubric ](./assignments/Key Learning Reflection Rubric.docx) | [](./)  | TBD |
+|[Assignment 4 ](./assignments/Assignment 4.docx) | [A4 Materials](./assignments/assignment4data.xlsx)  | Apr 18 |
 
 
 ## Additional Useful Files
