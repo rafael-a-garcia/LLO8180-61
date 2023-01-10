@@ -115,10 +115,10 @@ Week 14 - Chi-Square
 | **Instructions (.docx)** | **Data/Files** | **Due Date**|
 |:---|:---|:---|
 |[Assignment 1 ](./assignments/Assignment 1.docx) | [A1 Materials](./assignments/A1-materials.zip) | Jan 31 |
-|[Assignment 2 ](./assignments/Assignment 2.docx) | [A2 Materials](./assignments/weight.xlsx)  | Feb 21 |
-|[Assignment 3 ](./assignments/Assignment 3.docx) | [A3 Materials](./assignments/A3Files.zip)  | Mar 21 |
-|[Key Learning Reflection - Rubric ](./assignments/Key Learning Reflection Rubric.docx) | [](./)  | TBD |
-|[Assignment 4 ](./assignments/Assignment 4.docx) | [A4 Materials](./assignments/assignment4data.xlsx)  | Apr 18 |
+|[Assignment 2 ] <!---	(./assignments/Assignment 2.docx) ---> | [A2 Materials] <!---	(./assignments/weight.xlsx)  ---> | Feb 21 |
+|[Assignment 3 ] <!---	(./assignments/Assignment 3.docx)  --->| [A3 Materials] <!---	(./assignments/A3Files.zip)   --->| Mar 21 |
+|[Key Learning Reflection - Rubric ] <!---	(./assignments/Key Learning Reflection Rubric.docx)  --->| [](./)  | TBD |
+|[Assignment 4 ] <!---	(./assignments/Assignment 4.docx) ---> | [A4 Materials] <!---	(./assignments/assignment4data.xlsx)  ---> | Apr 18 |
 
 
 ## Additional Useful Files
