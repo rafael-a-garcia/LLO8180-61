@@ -13,7 +13,7 @@ If you want to set up email alerts for updates/additions to this site, you can u
 Week 1 - Basic Terms; Organizing and Graphing Data; Introduction to R
  * [Syllabus Slides](./sync-sessions/W1SyncSpring2023.pdf)
  * [Week 1 Slides](./sync-sessions/W1SyncSpring2023_2.pdf)
- * [Office 365](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/ER-jfMhQSQtAmk22Bph7BUcB8rLmYSk7onnszLFwC1YCJQ?e=wrYi0F)
+ * [Office 365](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/ER-jfMhQSQtAmk22Bph7BUcB8rLmYSk7onnszLFwC1YCJQ)
  * [Excel xlsx](./sync-sessions/Week1Excel.xlsx)
  * [R-script Rmd](./sync-sessions/Week1R.Rmd)
 
