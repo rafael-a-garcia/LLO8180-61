@@ -24,23 +24,28 @@ Week 2 - Percentiles, Central Tendency, and Variability
  * [R-script Rmd](./sync-sessions/Week2R.Rmd) Data for R: [examples.txt](./sync-sessions/examples.txt)
  * [Week 2 Formulas](./sync-sessions/Week 2 Formulas.pdf)
 
- {% comment %} 
-
 Week 3 - Basic Probability; Normal Distribution; Z-Scores
- * [Office 365](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/EbKjZK0bYM5PvLIQY9MHYOQBniRFTCnvjZugidPejrpRyw?e=OZhCIF)
+ * [Week 3 Slides](./sync-sessions/supplemental/W3.pdf)
+ * [Office 365](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/EbKjZK0bYM5PvLIQY9MHYOQBniRFTCnvjZugidPejrpRyw?e=Ul4FOF)
  * [Excel xlsx](./sync-sessions/Week3Excel.xlsx)
- * [R-script Rmd](./sync-sessions/Week2R.Rmd)
+ * [R-script Rmd](./sync-sessions/Week3R.Rmd)
  * [Week 3 Formulas](./sync-sessions/Week 3 formulas.pdf)
  * [Z-table](./sync-sessions/z-table.pdf)
- * [Notes and Review - Week 2](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/EW3RldtpTIJPtBbSQz3wS3oB96oTb1GrlZrdaMKFXhdcOw?e=ZyaVUP)
- * [Notes and Review - Week 3](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/EVZkaTFZjNJMtaFTFr0Jnx8Bj6VT6A1Owl569R1BSqLeFg?e=yTWdB3)
-	
-Week 4 - Sampling Distributions
+ 
+ {% comment %} 
+ * [Quiz Review - Week 2](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/EW3RldtpTIJPtBbSQz3wS3oB96oTb1GrlZrdaMKFXhdcOw?e=jgEAzQ)
+ 
+
+ Week 4 - Sampling Distributions
  * [Office 365](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/EXRT18xQ4e9Bv1JffcRsKewByN27hmwGQg2Sv-8WKN9odA?e=djYrGW)
  * [Excel xlsx](./sync-sessions/Week4Excel.xlsx)
  * [R-script Rmd](./sync-sessions/Week4R.Rmd)
  * [Week 4 Formulas](./sync-sessions/Week 4 formulas.pdf)
+ 
+  
+ * [Notes and Review - Week 3](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/EVZkaTFZjNJMtaFTFr0Jnx8Bj6VT6A1Owl569R1BSqLeFg?e=yTWdB3)
  * [Notes and Review - Week 4](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/Eet1_4jTQ7FDt-tVPc99K9UBY7lTvxn40vT0fxvjab4DxA?e=xYJhNW)
+ 
 	
 Week 5 - Hypothesis Testing: One-Sample Z-Test
  * [Office 365](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/Ee-f4cWJNw1Bk6WNbyrYqG4Blyjo-xjTVFyMUIq8jVhsMw?e=OfBfZg)
@@ -120,7 +125,7 @@ Week 14 - Chi-Square
 | **Instructions (.docx)** | **Data/Files** | **Due Date**|
 |:---|:---|:---|
 |[Assignment 1 ](./assignments/Assignment 1.docx) | [A1 Materials](./assignments/A1-materials.zip) | Jan 31 |
-|[Assignment 2 ] <!---	(./assignments/Assignment 2.docx) ---> | [A2 Materials] <!---	(./assignments/weight.xlsx)  ---> | Feb 21 |
+|[Assignment 2 ](./assignments/Assignment 2.docx) | [A2 Materials] (./assignments/weight.xlsx) | Feb 21 |
 |[Assignment 3 ] <!---	(./assignments/Assignment 3.docx)  --->| [A3 Materials] <!---	(./assignments/A3Files.zip)   --->| Mar 21 |
 |[Key Learning Reflection - Rubric ] <!---	(./assignments/Key Learning Reflection Rubric.docx)  --->| [](./)  | TBD |
 |[Assignment 4 ] <!---	(./assignments/Assignment 4.docx) ---> | [A4 Materials] <!---	(./assignments/assignment4data.xlsx)  ---> | Apr 18 |
