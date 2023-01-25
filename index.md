@@ -31,11 +31,10 @@ Week 3 - Basic Probability; Normal Distribution; Z-Scores
  * [R-script Rmd](./sync-sessions/Week3R.Rmd)
  * [Week 3 Formulas](./sync-sessions/Week 3 formulas.pdf)
  * [Z-table](./sync-sessions/z-table.pdf)
- 
- {% comment %} 
  * [Quiz Review - Week 2](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/EW3RldtpTIJPtBbSQz3wS3oB96oTb1GrlZrdaMKFXhdcOw?e=jgEAzQ)
  
-
+ 
+ {% comment %}
  Week 4 - Sampling Distributions
  * [Office 365](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/EXRT18xQ4e9Bv1JffcRsKewByN27hmwGQg2Sv-8WKN9odA?e=djYrGW)
  * [Excel xlsx](./sync-sessions/Week4Excel.xlsx)
@@ -125,7 +124,7 @@ Week 14 - Chi-Square
 | **Instructions (.docx)** | **Data/Files** | **Due Date**|
 |:---|:---|:---|
 |[Assignment 1 ](./assignments/Assignment 1.docx) | [A1 Materials](./assignments/A1-materials.zip) | Jan 31 |
-|[Assignment 2 ](./assignments/Assignment 2.docx) | [A2 Materials] (./assignments/weight.xlsx) | Feb 21 |
+|[Assignment 2 ](./assignments/Assignment 2.docx) | [A2 Materials](./assignments/weight.xlsx) | Feb 21 |
 |[Assignment 3 ] <!---	(./assignments/Assignment 3.docx)  --->| [A3 Materials] <!---	(./assignments/A3Files.zip)   --->| Mar 21 |
 |[Key Learning Reflection - Rubric ] <!---	(./assignments/Key Learning Reflection Rubric.docx)  --->| [](./)  | TBD |
 |[Assignment 4 ] <!---	(./assignments/Assignment 4.docx) ---> | [A4 Materials] <!---	(./assignments/assignment4data.xlsx)  ---> | Apr 18 |
