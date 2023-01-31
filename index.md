@@ -33,14 +33,15 @@ Week 3 - Basic Probability; Normal Distribution; Z-Scores
  * [Z-table](./sync-sessions/z-table.pdf)
  * [Quiz Review - Week 2](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/EW3RldtpTIJPtBbSQz3wS3oB96oTb1GrlZrdaMKFXhdcOw?e=jgEAzQ)
  
- 
- {% comment %}
  Week 4 - Sampling Distributions
  * [Office 365](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/EXRT18xQ4e9Bv1JffcRsKewByN27hmwGQg2Sv-8WKN9odA?e=djYrGW)
  * [Excel xlsx](./sync-sessions/Week4Excel.xlsx)
  * [R-script Rmd](./sync-sessions/Week4R.Rmd)
  * [Week 4 Formulas](./sync-sessions/Week 4 formulas.pdf)
- 
+ * [Quiz Review - Week 3]()
+
+
+{% comment %}
   
  * [Notes and Review - Week 3](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/EVZkaTFZjNJMtaFTFr0Jnx8Bj6VT6A1Owl569R1BSqLeFg?e=yTWdB3)
  * [Notes and Review - Week 4](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/Eet1_4jTQ7FDt-tVPc99K9UBY7lTvxn40vT0fxvjab4DxA?e=xYJhNW)
