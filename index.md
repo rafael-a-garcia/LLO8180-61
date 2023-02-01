@@ -38,7 +38,7 @@ Week 3 - Basic Probability; Normal Distribution; Z-Scores
  * [Excel xlsx](./sync-sessions/Week4Excel.xlsx)
  * [R-script Rmd](./sync-sessions/Week4R.Rmd)
  * [Week 4 Formulas](./sync-sessions/Week 4 formulas.pdf)
- * [Quiz Review - Week 3]()
+ * [Quiz Review - Week 3](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/EVZkaTFZjNJMtaFTFr0Jnx8Bj6VT6A1Owl569R1BSqLeFg?e=YrmTdT)
 
 
 {% comment %}
