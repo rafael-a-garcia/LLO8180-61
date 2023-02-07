@@ -39,27 +39,27 @@ Week 3 - Basic Probability; Normal Distribution; Z-Scores
  * [R-script Rmd](./sync-sessions/Week4R.Rmd)
  * [Week 4 Formulas](./sync-sessions/Week 4 formulas.pdf)
  * [Quiz Review - Week 3](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/EVZkaTFZjNJMtaFTFr0Jnx8Bj6VT6A1Owl569R1BSqLeFg?e=YrmTdT)
-
-
-{% comment %}
-  
- * [Notes and Review - Week 3](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/EVZkaTFZjNJMtaFTFr0Jnx8Bj6VT6A1Owl569R1BSqLeFg?e=yTWdB3)
- * [Notes and Review - Week 4](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/Eet1_4jTQ7FDt-tVPc99K9UBY7lTvxn40vT0fxvjab4DxA?e=xYJhNW)
- 
 	
 Week 5 - Hypothesis Testing: One-Sample Z-Test
  * [Office 365](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/Ee-f4cWJNw1Bk6WNbyrYqG4Blyjo-xjTVFyMUIq8jVhsMw?e=OfBfZg)
  * [Excel xlsx](./sync-sessions/Week5Excel.xlsx)
  * [R-script Rmd](./sync-sessions/Week5R.xlsx)
  * [Week 5 Formulas](./sync-sessions/Week 5 formulas.pdf)
- * [Notes and Review - Week 5](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/EdSOz_KWy2NKuP1NgXpFLOUBEUg-plWBPQZr4YsCIUFx7Q?e=yqRzVK)
+ * [Quiz Review - Week 4]()
 	
+{% comment %}
 Week 6 - Power and Effect Size; One-Sample t-Test
  * [Office 365](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/EQ8cKcLkuN1GvcjNRBA9tNMBq5VKPW_xVcjXYNJ5_qpOaA?e=1fPanA)
  * [Excel xlsx](./sync-sessions/Week6Excel.xlsx)
  * [R-script Rmd](./sync-sessions/Week6R.Rmd)
  * [Week 6 Formulas](./sync-sessions/Week 6 formulas.pdf)
  * [Notes and Review - Week 6](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/ERO9Z3ITge1Hs-SAmQ_NxmUBGghhHTsBO1gzHFwACXaV2Q?e=TH7N1u)
+ 
+ 
+ * [Notes and Review - Week 4](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/Eet1_4jTQ7FDt-tVPc99K9UBY7lTvxn40vT0fxvjab4DxA?e=xYJhNW)
+ 
+ 5
+ https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/EdSOz_KWy2NKuP1NgXpFLOUBEUg-plWBPQZr4YsCIUFx7Q?e=yqRzVK
 	
 Week 7 - Two-Sample t-tests
  * [Office 365](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/EeKhK-WKR65Ik1i0cTrfbY8BgGx1WAU6_jvK6PNr6aHQuw?e=FdYQ7a)
