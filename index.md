@@ -52,20 +52,13 @@ Week 6 - Power and Effect Size; One-Sample t-Test
  * [R-script Rmd](./sync-sessions/Week6R.Rmd)
  * [Week 6 Formulas](./sync-sessions/Week 6 formulas.pdf)
 
- {% comment %}
-  * [Notes and Review - Week 6](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/ERO9Z3ITge1Hs-SAmQ_NxmUBGghhHTsBO1gzHFwACXaV2Q?e=TH7N1u)
- * [Notes and Review - Week 4](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/Eet1_4jTQ7FDt-tVPc99K9UBY7lTvxn40vT0fxvjab4DxA?e=xYJhNW)
- 
- 5
- https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/EdSOz_KWy2NKuP1NgXpFLOUBEUg-plWBPQZr4YsCIUFx7Q?e=yqRzVK
-	
 Week 7 - Two-Sample t-tests
  * [Office 365](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/EeKhK-WKR65Ik1i0cTrfbY8BgGx1WAU6_jvK6PNr6aHQuw?e=FdYQ7a)
  * [Excel xlsx](./sync-sessions/Week7Excel.xlsx)
  * [R-script Rmd](./sync-sessions/Week7R.Rmd)
  * [Week 7 Formulas](./sync-sessions/Week 7 formulas.pdf)
- * [Notes and Review - Week 7](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/EfxLuzviQcpKhJnQrOCWoiIBObIMJZBqmoyltSoHmhKQJQ?e=IVlz9O)
 	
+ {% comment %}
 Week 8 - Confidence Intervals
  * [Office 365](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/EdxMeIK9HrpJsab-QZ6GqN0B6rMjwOoYCXlwTx5Kwji9cA?e=bzOvyd)
  * [Excel xlsx](./sync-sessions/Week8Excel.xlsx)
@@ -124,9 +117,9 @@ Week 14 - Chi-Square
 |:---|:---|:---|
 |[Assignment 1 ](./assignments/Assignment 1.docx) | [A1 Materials](./assignments/A1-materials.zip) | Jan 31 |
 |[Assignment 2 ](./assignments/Assignment 2.docx) | [A2 Materials](./assignments/weight.xlsx) | Feb 21 |
-|[Assignment 3 ] <!---	(./assignments/Assignment 3.docx)  --->| [A3 Materials] <!---	(./assignments/A3Files.zip)   --->| Mar 21 |
-|[Key Learning Reflection - Rubric ] <!---	(./assignments/Key Learning Reflection Rubric.docx)  --->| [](./)  | TBD |
-|[Assignment 4 ] <!---	(./assignments/Assignment 4.docx) ---> | [A4 Materials] <!---	(./assignments/assignment4data.xlsx)  ---> | Apr 18 |
+|[Assignment 3 ](./assignments/Assignment 3.docx) | [A3 Materials](./assignments/A3Files.zip) | Mar 21 |
+|[Key Learning Reflection - Rubric ](./assignments/Key Learning Reflection.docx) | [](./assignments/Key Learning Reflection Rubric.docx)  | Apr 4 |
+|[Assignment 4 ](./assignments/Assignment 4.docx) | [A4 Materials](./assignments/assignment4data.xlsx) | Apr 18 |
 
 
 ## Additional Useful Files
