@@ -45,17 +45,15 @@ Week 5 - Hypothesis Testing: One-Sample Z-Test
  * [Excel xlsx](./sync-sessions/Week5Excel.xlsx)
  * [R-script Rmd](./sync-sessions/Week5R.xlsx)
  * [Week 5 Formulas](./sync-sessions/Week 5 formulas.pdf)
- * [Quiz Review - Week 4]()
 	
-{% comment %}
 Week 6 - Power and Effect Size; One-Sample t-Test
  * [Office 365](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/EQ8cKcLkuN1GvcjNRBA9tNMBq5VKPW_xVcjXYNJ5_qpOaA?e=1fPanA)
  * [Excel xlsx](./sync-sessions/Week6Excel.xlsx)
  * [R-script Rmd](./sync-sessions/Week6R.Rmd)
  * [Week 6 Formulas](./sync-sessions/Week 6 formulas.pdf)
- * [Notes and Review - Week 6](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/ERO9Z3ITge1Hs-SAmQ_NxmUBGghhHTsBO1gzHFwACXaV2Q?e=TH7N1u)
- 
- 
+
+ {% comment %}
+  * [Notes and Review - Week 6](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/ERO9Z3ITge1Hs-SAmQ_NxmUBGghhHTsBO1gzHFwACXaV2Q?e=TH7N1u)
  * [Notes and Review - Week 4](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/Eet1_4jTQ7FDt-tVPc99K9UBY7lTvxn40vT0fxvjab4DxA?e=xYJhNW)
  
  5
