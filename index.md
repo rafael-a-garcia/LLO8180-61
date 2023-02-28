@@ -58,14 +58,14 @@ Week 7 - Two-Sample t-tests
  * [R-script Rmd](./sync-sessions/Week7R.Rmd)
  * [Week 7 Formulas](./sync-sessions/Week 7 formulas.pdf)
 	
- {% comment %}
 Week 8 - Confidence Intervals
  * [Office 365](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/EdxMeIK9HrpJsab-QZ6GqN0B6rMjwOoYCXlwTx5Kwji9cA?e=bzOvyd)
  * [Excel xlsx](./sync-sessions/Week8Excel.xlsx)
  * [R-script Rmd](./sync-sessions/Week8R.Rmd)
  * [Week 8 Formulas](./sync-sessions/Week 8 Formulas.pdf)
- * [Notes and Review - Week 8](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/ER-s6uPflcpGl1NOR9CHor0BQkoqNM7VE5W9zRoUz7BiYA?e=dvNUn9)
- 	
+
+ 		
+{% comment %}	
 Week 9 - One-Way ANOVA
  * [Office 365](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/ETcEdzvR_BxJpD1Bce3iowsBiUD8iSzS6nHD7gdBI_xOAA?e=9y7Nfv)
  * [Excel xlsx](./sync-sessions/Week9Excel.xlsx)
