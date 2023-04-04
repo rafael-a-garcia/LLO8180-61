@@ -82,17 +82,15 @@ Week 11 - Correlation
  * [R-script Rmd](./sync-sessions/Week11R.Rmd)
  * [Week 11 Formulas](./sync-sessions/Week 11 Formulas.pdf)
 
-{% comment %}	
-
-
- * [Notes and Review - Week 11]()
-	
 Week 12 - Simple Linear Regression
  * [Office 365](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/EX1MxgAxjLBMv1qrD1HMwuoBwY-wTC0Y34TJjs83K2ch2w?e=uYZ6ls)
  * [Excel xlsx](./sync-sessions/Week12Excel.xlsx)
  * [R-script Rmd](./sync-sessions/Week12R.Rmd)
  * [Week 12 Formulas](./sync-sessions/Week 12 formulas.pdf)
- * [Notes and Review - Week 12](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/EZuWti86Wm1Jjyv2EloWfgYBfkHe9AU3YuveYQuxLx_B3g?e=KBsPxK)
+	
+{% comment %}	
+
+	
 	
 Week 13 - Multiple Linear Regression
  * [Office 365](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/EWkVoWmbPwNPvfGe1zFYRasB0PMtFyojZe6IGA9pmQqwlQ?e=giLpf0)
