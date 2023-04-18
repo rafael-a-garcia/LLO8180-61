@@ -94,17 +94,15 @@ Week 13 - Multiple Linear Regression
  * [R-script Rmd](./sync-sessions/Week13R.Rmd)
  * [Week 13 Formulas](./sync-sessions/Week 13 formulas.pdf)
 
-
-{% comment %}	
-
-	
 Week 14 - Chi-Square
  * [Office 365](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/ETP9mz2XhIVPqasaxlXKM2YB0Mf8pGw_bKGEO9cp9rKujw?e=Ib7JVN)
  * [Excel xlsx](./sync-sessions/Week14Excel.xlsx)
  * [R-script Rmd](./sync-sessions/Week14R.Rmd)
  * [Week 14 Formulas](./sync-sessions/Week 14 formulas.pdf)
- * [Notes and Review - Week 14]()
  * [Choosing Statistics Handout](./sync-sessions/ChoosingStatisticsHandout.docx) 
+
+{% comment %}	
+
 {% endcomment %}
 
 	
